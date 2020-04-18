@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv='X-UA-Compatible' content='ie=edge' />
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <title>Evan Tan<%= ': ' + current_article.title unless current_article.nil? %></title>
+    <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
+    <%= stylesheet_link_tag "all" %>
+    <%= javascript_include_tag "site" %>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/all.css">
+  </head>
+
+  <body>
+    <%= partial "header" %>
+    <h1>
+      <% current_page.data.title do |f| %>
+        <%= f %>
+      <% end %>
+    </h1>
+    <p>by Evan Tan</p>
+    <section class=“post-container”>
+      <%= yield %>
+    </section>
+
+    <!-- <div id="main" role="main">
+      <aside class="side-nav">
+        <ul>
+          <% blog.tags.each do |tag, articles| %>
+          <li><%= link_to "#{tag} (#{articles.size})", tag_path(tag) %></li>
+          <% end %>
+        </ul>
+      </aside>
+    </div> -->
+
+    <aside>
+      <h2>Recent Articles</h2>
+      <ol>
+        <% blog.articles[0...10].each do |article| %>
+          <li><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e') %></span></li>
+        <% end %>
+      </ol>
+
+      <!-- <h2>Tags</h2>
+      <ol>
+        <% blog.tags.each do |tag, articles| %>
+          <li><%= link_to "#{tag} (#{articles.size})", tag_path(tag) %></li>
+        <% end %>
+      </ol> -->
+
+      <!-- <h2>By Year</h2>
+      <ol>
+        <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
+          <li><%= link_to "#{year} (#{articles.size})", blog_year_path(year) %></li>
+        <% end %>
+      </ol> -->
+
+    </aside>
+  </body>
+</html>
