@@ -9,8 +9,43 @@ body{
   font-family: Helvetica, Arial, sans-serif;
 }
 
+/* .blurb{
+  text-align: center;
+  float: left;
+} */
+#about-container {
+  width: 1500px;
+  padding: 100px 20px;
+  margin: auto;
+}
+
+#about-portrait{
+  display: inline-block;
+  width: 32.5%;
+  float: left;
+}
+
+#space{
+  display: inline-block;
+  width: 5%;
+  float: left;
+}
+
+#about-blurb{
+  display: inline-block;
+  width: 62.5%;
+  float: left;
+  font-size: 24px;
+}
+
+.portrait{
+  width: 100%;
+  height: auto;
+}
+
 .nav{
   background-color: #ffffff;
+  text-decoration: none;
   color: #000000;
   list-style: none;
   text-align: right;
@@ -24,8 +59,8 @@ body{
 }
 
 .nav > li > a {
-  text-decoration: none;
   color: #000000;
+  text-decoration: none;
 }
 
 .nav > li > a:hover{
@@ -33,9 +68,19 @@ body{
 }
 
 .logo {
+  text-decoration: none;
   color: #000000;
   display: inline-block;
   /* text-align: left; */
   padding: 0 40px;
   font-size: 16px;
+}
+
+.logo > a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.logo > a:hover{
+  color: #c1c1c1;
 }
