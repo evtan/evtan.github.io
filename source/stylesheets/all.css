@@ -15,14 +15,14 @@ body{
 } */
 
 #blog-container {
-  width: 140vh;
+  width: 70%;
   padding: 20px;
   margin: auto;
 }
 
 #container {
-  width: 130vh;
-  padding: 80px 0px;
+  width: 70%;
+  padding: 60px 0px;
   margin: auto;
 }
 
@@ -83,7 +83,7 @@ body{
   color: #000000;
   list-style: none;
   text-align: right;
-  padding: 15px 30px 0 0;
+  padding: 15px 30px 5px 0;
 }
 
 .nav > li {

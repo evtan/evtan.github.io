@@ -14,7 +14,7 @@ per_page: 10
       startups making a difference through building great products and deploying data, I enjoy finding
       ways to use software and data to help action-takers operationalise their visions, to do meaningful work
       and build purposeful careers.
-    <p> I coded this site on Ruby using Middleman Blog and Github Pages.
+    <p> I coded this site on Ruby using Middleman Blog and GitHub Pages.
     </p>
   </aside>
 
@@ -40,13 +40,13 @@ per_page: 10
       </button>
     </div>
   </div>
-  <br>
-  <div id="container">
-    <h3>Recent Articles</h3>
-      <% blog.articles[0...10].each do |article, i| %>
-        <li><b><%= link_to article.title, article, :class => 'link' %></b> <span><%= article.date.strftime('%e %b %Y') %></span></li>
-      <% end %>
-  </div>
+</div>
+
+<div id="container">
+  <h3>Recent Articles</h3>
+    <% blog.articles[0...10].each do |article, i| %>
+      <li><b><%= link_to article.title, article, :class => 'link' %></b> <span><%= article.date.strftime('%e %b %Y') %></span></li>
+    <% end %>
 </div>
 
 <% if paginate && num_pages > 1 %>
