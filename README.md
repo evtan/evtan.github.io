@@ -1,6 +1,6 @@
 # evtan.github.io
 
-Feel free to clone this repo to setup your Middleman blog quickly! This is my open-source (MIT License) public repository for my <a href="https://middlemanapp.com/basics/blogging/" target="_blank">personal GitHub page</a>.
+Feel free to clone this repo to setup your Middleman blog quickly! This is my open-source (MIT License) public repository for my <a href="https://evtan.github.io/" target="_blank">personal GitHub page</a>.
 
 I coded this site on Ruby using Middleman Blog and GitHub Pages. 
 You can take a look at the <a href="https://evtan.github.io/" target="_blank">Middleman Blog documentation</a> for more details.
