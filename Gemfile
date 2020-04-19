@@ -9,7 +9,7 @@ gem 'middleman-autoprefixer'
 gem 'redcarpet', '~> 3.3', '>= 3.3.3'
 
 gem 'middleman-livereload'
-gem 'middleman-deploy', '~> 1.0'
+gem 'middleman-deploy', '~> 2.0.0.pre.alpha'
 
 # For feed.xml.builder
 gem 'builder', '~> 3.0'

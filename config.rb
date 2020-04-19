@@ -79,6 +79,16 @@ end
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
 
+activate :deploy do |deploy|
+  deploy.deploy_method = :git
+  deploy.branch = 'master'
+end
+# activate:deploy do |deploy|
+#   deploy.method = :git
+#   deploy.branch = 'master'
+#   deploy.build_before = true
+# end
+
 configure :build do
   # Minify CSS on build
   # activate :minify_css
