@@ -51,6 +51,7 @@ body{
   width: 62.5%;
   float: left;
   font-size: 20px;
+  text-align: justify;
 }
 
 .portrait{
@@ -95,6 +96,7 @@ body{
 .nav > li > a {
   color: #000000;
   text-decoration: none;
+  font-weight: bold;
 }
 
 .nav > li > a:hover{
