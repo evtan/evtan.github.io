@@ -58,7 +58,7 @@ Naturally, there will be hits and misses in an ongoing experiment around buildin
 
 There was an interesting finding around developing high performing individuals. Psychologists from Stanford, Yale and Columbia discovered that teachers that shared one particular form of feedback boosted student effort and performance so significantly, that they called it “magical feedback”. This simple line goes as follows:
 
-[*I’m giving you these comments because I have very high expectations and I know that you can reach them.](http://time.com/5125421/gregg-popovich-san-antonio-spurs-success/)*
+> [**"I’m giving you these comments because I have very high expectations and I know that you can reach them."**](http://time.com/5125421/gregg-popovich-san-antonio-spurs-success/)
 
 These 19 words do not contain any information on how to improve. Yet they are powerful because they deliver a cultural signal:
 
