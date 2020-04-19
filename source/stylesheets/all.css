@@ -13,10 +13,25 @@ body{
   text-align: center;
   float: left;
 } */
-#about-container {
-  width: 1500px;
-  padding: 100px 20px;
+
+#blog-container {
+  width: 140vh;
+  padding: 20px;
   margin: auto;
+}
+
+#container {
+  width: 130vh;
+  padding: 80px 0px;
+  margin: auto;
+}
+
+#avatar {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  background-image: url("https://uc302503fc72ca705f533ae23821.previews.dropboxusercontent.com/p/thumb/AAzVseJH4aG3XVYzCCOKWQM4LTp2O6kySiVEwdPJyj2Gg0NDrPiv8T2sQPjRzthlDq2OccAPKWW7L9PEdeDLapXI4a8cpVkSKsBy7_OhL8jKYnTnRj8kArtFkEAOI58Mmc3PGjurcnQUFlDK9IgJZfn2L-ExGUNb_bzsRt76AXtCWxsEeMap9C1VqD5LiUpbIiiBn5M4z7Kjnqn3DPNxvV2WR38xLVS8jA4yjo2lPAkkYquZVQvUlyil6Ge2Nr0Mu3F33k94XXdFfrnGV3hBFCw0zjkjzTEJotXWLetx7fwTNk04tt3Q6bB6-FaYRwgwMCKzJAiNFeYXURq32JDqBIngCTUef8WSfttRcc7U7o55pV7CuLi4N0tr50nE0kmpQphSUuNk-ojTOaPZOpGNpLbDPN7T1-11GPgeWb9YZIa7IELpmUzq1sDsjRWtOIeE8204QjINMjuSf1OQj7IJ-II2/p.png?fv_content=true&size_mode=5");
+  background-size: cover;
 }
 
 #about-portrait{
@@ -35,12 +50,31 @@ body{
   display: inline-block;
   width: 62.5%;
   float: left;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .portrait{
   width: 100%;
   height: auto;
+}
+
+.link{
+  color: #000000;
+  text-decoration: none;
+}
+
+.link:hover{
+  color: #c1c1c1;
+}
+
+.blog-link{
+  color: #000000;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.blog-link:hover{
+  color: #c1c1c1;
 }
 
 .nav{
@@ -74,6 +108,9 @@ body{
   /* text-align: left; */
   padding: 0 40px;
   font-size: 16px;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
 }
 
 .logo > a {
@@ -83,4 +120,60 @@ body{
 
 .logo > a:hover{
   color: #c1c1c1;
+}
+
+/* Adding social media buttons */
+#social-container {
+  width: 50vh;
+  padding: 10px 5px;
+  margin: auto;
+  position: absolute;
+}
+
+.social{
+  width: 20px;
+  height: 20px;
+}
+
+#social-li {
+  float: left;
+  color: white;
+  width: 25%;
+  height: auto;
+  margin: auto;
+}
+
+#social-twitter {
+  float: left;
+  color: white;
+  width: 25%;
+  height: auto;
+  margin: auto;
+}
+
+#social-gh {
+  float: left;
+  color: white;
+  width: 25%;
+  height: auto;
+  margin: auto;
+}
+
+#social-medium {
+  float: left;
+  color: white;
+  width: 25%;
+  height: auto;
+  margin: auto;
+}
+
+.btn {
+  background-color: #ffffff;
+  border: none; /* Remove borders */
+  cursor: pointer; /* Mouse pointer on hover */
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: #c1c1c1;
 }

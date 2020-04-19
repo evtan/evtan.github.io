@@ -1,12 +1,13 @@
 ---
 
 title: Build A Company People Want To Stay With, For Their Entire Careers
-date: 2019-05-24 02:15 UTC
-tags:
+date: 24 May 2019
+tags: startups
 subtitle: If we looked around at each other, and considered that these are the people we’re going to be working with day in and day out for the next 10 to 20 years, would we be doing things differently?
 ---
 
-# Build A Company People Want To Stay With, For Their Entire Careers
+***
+<i><a rel="canonical" href="https://medium.com/@evtan/build-a-company-people-want-to-stay-with-for-their-entire-careers-24e0af7b5193">Originally posted on Medium</a>.</i>
 
 My previous article explored what it takes to build alignment across a company over the long term. Taking this to the next logical step, I want to explore what it takes to build a team that lasts.
 
@@ -70,3 +71,5 @@ These 19 words do not contain any information on how to improve. Yet they are po
 There’s a key insight here that a person’s potential is realised not through their own efforts alone, but through the influence of someone who believes in their ability to reach and actualise their latent abilities. Ultimately, “[if you trust and empower people and give them a chance to rise to the higher expectations, the vast majority of people are able to do it.](https://www.huffpost.com/entry/netflix-culture-deck-success_n_6763716)”
 
 So let’s all do better together.
+
+***

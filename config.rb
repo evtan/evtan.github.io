@@ -44,10 +44,13 @@ activate :blog do |blog|
   # blog.year_link = "{year}.html"
   # blog.month_link = "{year}/{month}.html"
   # blog.day_link = "{year}/{month}/{day}.html"
-  # blog.default_extension = ".markdown"
+
+  blog.default_extension = ".md"
 
   blog.tag_template = "tag.html"
   blog.calendar_template = "calendar.html"
+
+  blog.new_article_template = File.expand_path('../data/article_template.yml', __FILE__)
 
   activate :directory_indexes
   # Enable pagination
