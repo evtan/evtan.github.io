@@ -15,7 +15,7 @@ body{
   clear: both;
   position: fixed;
   bottom:0;
-  text-align: right;
+  text-align: left;
   width: 98%;
 }
 
@@ -44,6 +44,13 @@ body{
   background-size: cover;
 }
 
+#about-container {
+  width: 70%;
+  padding: 60px 0px;
+  margin: auto;
+  display: flex;
+}
+
 #about-portrait{
   display: inline-block;
   width: 32.5%;
@@ -54,14 +61,26 @@ body{
   display: inline-block;
   width: 5%;
   float: left;
+  margin-bottom: 5px;
 }
 
 #about-blurb{
   display: inline-block;
   width: 62.5%;
-  float: left;
+  float: right;
   font-size: 20px;
   text-align: justify;
+}
+
+@media only screen and (max-width: 768px) {
+#about-portrait, #about-blurb {
+    width: 100%;
+    float: left;
+    display: block;
+ }
+ #about-container {
+   flex-direction: column;
+ }
 }
 
 .portrait{
