@@ -56,27 +56,6 @@ per_page: 10
   </div>
 </div>
 
-<script src="https://cdn.paddle.com/paddle/paddle.js"></script>
-<script type="text/javascript">
-  Paddle.Setup({ vendor: 109574 });
-</script>
-
-<script type="text/javascript">
-	function openCheckout() {
-		Paddle.Checkout.open({
-      product: 585890,
-      title: "Full-stack Growth Hacking",
-      custom_message: "Thank you for choosing us!",
-      image_url: "https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/letter-e.png"
-      });
-	}
-	document.getElementById('buy').addEventListener('click', openCheckout, false);
-</script>
-
-<!-- Start of HubSpot Embed Code -->
-  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/7231626.js"></script>
-<!-- End of HubSpot Embed Code -->
-
 <% if paginate && num_pages > 1 %>
   <p>Page <%= page_number %> of <%= num_pages %></p>
 
