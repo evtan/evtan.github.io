@@ -2,9 +2,11 @@ source 'https://rubygems.org'
 
 ruby '2.4.2'
 # Middleman Gems
-gem 'middleman', '~> 4.3.6'
+gem 'middleman', '~> 4.3.7'
 gem 'middleman-blog'
 gem 'middleman-autoprefixer'
+
+gem "activesupport", ">= 5.2.4.3"
 
 gem 'redcarpet', '~> 3.3', '>= 3.3.3'
 
