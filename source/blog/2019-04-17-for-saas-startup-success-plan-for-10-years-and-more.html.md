@@ -26,7 +26,7 @@ When considering what this could mean for my startup, this really drove home for
 
 [Jason M. Lemkin](undefined) did an excellent piece [showing that many famous SaaS startups that we think of as up-and-coming, have actually already been around and plugging away for more than 10 years](https://www.linkedin.com/pulse/saas-maybe-plan-30-years-founder-jason-m-lemkin/). Which begs [the question, how do we define success as a company](https://medium.com/swlh/what-defines-a-successful-startup-4abe5d507273)?
 
-![As of 2018, “SaaS companies that are crossing into their third decade in operation — and not slowing down”. From [https://www.linkedin.com/pulse/saas-maybe-plan-30-years-founder-jason-m-lemkin/](https://www.linkedin.com/pulse/saas-maybe-plan-30-years-founder-jason-m-lemkin/)](https://cdn-images-1.medium.com/max/2000/1*sUbTp4H5AU9KRsCI0so3cQ.png){:height=auto width="60%"}
+<img src="https://cdn-images-1.medium.com/max/2000/1*sUbTp4H5AU9KRsCI0so3cQ.png" alt="As of 2018, “SaaS companies that are crossing into their third decade in operation — and not slowing down”" width="40%">
 <br>*As of 2018, “SaaS companies that are crossing into their third decade in operation — and not slowing down”. From [https://www.linkedin.com/pulse/saas-maybe-plan-30-years-founder-jason-m-lemkin/](https://www.linkedin.com/pulse/saas-maybe-plan-30-years-founder-jason-m-lemkin/)*
 
 ## Growing A Team You Believe In
@@ -37,7 +37,7 @@ Seen in this light, this means **any person on the team, and anyone we hire, sho
 
 So basically, “[train people well enough so they can leave, treat them well enough so they don’t want to](https://www.virgin.com/richard-branson/look-after-your-staff).”
 
-![Some of the young faces building Holistics, with brilliant engineers, product teams and growth hackers hailing from Vietnam, Singapore and Indonesia. The next big tech stories will be coming from this part of the world.](https://cdn-images-1.medium.com/max/2000/1*7d_7dP4BnPA6tSWCOC5jdw.png){:height=auto width="100%"}
+<img src="https://cdn-images-1.medium.com/max/2000/1*7d_7dP4BnPA6tSWCOC5jdw.png" alt="Some of the young faces building Holistics, with brilliant engineers, product teams and growth hackers hailing from Vietnam, Singapore and Indonesia. The next big tech stories will be coming from this part of the world." width="80%">
 <br>*Some of the young faces building Holistics, with brilliant engineers, product teams and growth hackers hailing from Vietnam, Singapore and Indonesia. The next big tech stories will be coming from this part of the world.*
 
 ## A Startup Is The Shared Dream Of The Whole Team, Not Just The Founders

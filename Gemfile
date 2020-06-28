@@ -7,7 +7,9 @@ gem 'middleman-blog'
 gem 'middleman-autoprefixer'
 
 gem "activesupport", ">= 5.2.4.3"
+gem "rack", ">= 2.2.3"
 
+gem "middleman-syntax"
 gem 'redcarpet', '~> 3.3', '>= 3.3.3'
 
 gem 'middleman-livereload'
