@@ -26,8 +26,8 @@ When considering what this could mean for my startup, this really drove home for
 
 [Jason M. Lemkin](undefined) did an excellent piece [showing that many famous SaaS startups that we think of as up-and-coming, have actually already been around and plugging away for more than 10 years](https://www.linkedin.com/pulse/saas-maybe-plan-30-years-founder-jason-m-lemkin/). Which begs [the question, how do we define success as a company](https://medium.com/swlh/what-defines-a-successful-startup-4abe5d507273)?
 
-<img src="https://cdn-images-1.medium.com/max/2000/1*sUbTp4H5AU9KRsCI0so3cQ.png" alt="As of 2018, “SaaS companies that are crossing into their third decade in operation — and not slowing down”" width="40%">
-<br>*As of 2018, “SaaS companies that are crossing into their third decade in operation — and not slowing down”. From [https://www.linkedin.com/pulse/saas-maybe-plan-30-years-founder-jason-m-lemkin/](https://www.linkedin.com/pulse/saas-maybe-plan-30-years-founder-jason-m-lemkin/)*
+<img src="https://cdn-images-1.medium.com/max/2000/1*sUbTp4H5AU9KRsCI0so3cQ.png" alt="As of 2018, “SaaS companies that are crossing into their third decade in operation — and not slowing down”" width="80%">
+<br>*As of 2018, “SaaS companies that are crossing into their third decade in operation — and not slowing down”. (Credit: [Jason Lemkin](https://www.linkedin.com/pulse/saas-maybe-plan-30-years-founder-jason-m-lemkin/))*
 
 ## Growing A Team You Believe In
 

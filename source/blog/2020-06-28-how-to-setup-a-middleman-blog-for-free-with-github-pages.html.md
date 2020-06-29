@@ -17,7 +17,7 @@ This article assumes some familiarity with working with the terminal, Ruby on Ra
 ## Step 1: Decide how you want your blog to look
 First up, I gathered some ideas for how I wanted the blog to look, here were some of my visual references.
 
-![I collected some reference images from blog designs I like.](https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/blog-ideas.png)
+<img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/blog-ideas.png" alt="I collected some reference images from blog designs I like." width="80%">
 
 ## Step 2: Setup Middleman
 
@@ -41,15 +41,15 @@ bundle exec middleman server
 ```
 Rename `my_blog_project` to your choice of project name for your blog. You should now be able to access your Middleman blog site by visiting `http://localhost:4567`. This lets you test out running your Middleman blog on your local machine, and it's also where you'll be able to check that your work and changes to your HTML, JavaScript and CSS are appearing correctly. Personally, I use [Atom as my code editor](https://atom.io/), and it's all I've needed so far! Shut down down your localhost server with `CTRL+c`.
 
-<img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/middleman-localhost.png" alt="Hello World from localhost!" width="50%">
+<img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/middleman-localhost.png" alt="Hello World from localhost!" width="80%">
 
 Somehow I ran into the error below when I first tried to run my [localhost](http://localhost) server.
 
-<img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/gem-error.png" alt="Running into errors with localhost" width="50%">
+<img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/gem-error.png" alt="Running into errors with localhost" width="100%">
 
 The fix for me was to add this line to my gem file: `gem 'middleman-autoprefixer'`. Personally I'm not entirely sure why this worked for me, but I'm sharing this to help any one who might get stuck here.
 
-<img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/gem-autoprefixer.png" alt="Adding this single gem line fixed the error" width="50%">
+<img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/gem-autoprefixer.png" alt="Adding this single gem line fixed the error" width="100%">
 
 [Middleman's documentation](https://middlemanapp.com/basics/install/) was really helpful for me to make sense of things as I went along, I recommend browsing through the sections, to better understand their concepts such as partials.
 
@@ -117,7 +117,7 @@ middleman deploy
 
 That's it! Refresh your page, and you should soon see your changes live on the web. Congratulations! You've built and launched a Middleman blog on GitHub Pages, from scratch!
 
-<img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/ghpage-live.png" alt="Your GitHub page is now live!" width="90%">
+<img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/ghpage-live.png" alt="Your GitHub page is now live!" width="100%">
 
 Bonus points if you decide to purchase your own web domain, and to serve your GitHub page from there instead. If so, [this Hacker Noon guide](https://hackernoon.com/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b) will be your friend.
 

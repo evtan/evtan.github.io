@@ -7,7 +7,8 @@ end
 
 activate :syntax, :line_numbers => false, :inline_theme => Rouge::Themes::Base16::Solarized.new
 set :markdown_engine, :redcarpet
-set :markdown, :fenced_code_blocks => true, :smartypants => true, :link_attributes => { target: '_blank' }
+#set :markdown_engine, :kramdown
+set :markdown, :fenced_code_blocks => true, :smartypants => true, :prettify => true, :tables => true, :with_toc_data => true, :no_intra_emphasis => true, :disable_indented_code_blocks => true, :link_attributes => { target: '_blank' }
 # Layouts
 # https://middlemanapp.com/basics/layouts/
 

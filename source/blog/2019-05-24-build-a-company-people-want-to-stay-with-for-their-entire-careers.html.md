@@ -21,7 +21,7 @@ What does it take to build an institution for the long term? What’s it going t
 
 I was looking around for some examples of building successful teams for the long haul, and found a good resource in a book called [“The Culture Code”, that studied successful organisations](https://knowledge.wharton.upenn.edu/article/secrets-successful-groups/) like the U.S. Navy’s SEAL Team Six, IDEO, Pixar and the San Antonio Spurs.
 
-<img src="https://cdn-images-1.medium.com/max/2000/1*6-5jFgnLVqj1Ydd5xzIlvw.jpeg" alt="San Antonio Spurs team with coach Gregg Popovich." width="80%">
+<img src="https://cdn-images-1.medium.com/max/2000/1*6-5jFgnLVqj1Ydd5xzIlvw.jpeg" alt="San Antonio Spurs team with coach Gregg Popovich." width="90%">
 <br>*San Antonio Spurs team with coach Gregg Popovich. (Photo: Kevin C. Cox/Getty Images)*
 
 In this article, the book author shared that “[When Harvard did a study tracking average culture versus strong culture, strong culture was 782% of net revenue over 10 years.](https://knowledge.wharton.upenn.edu/article/secrets-successful-groups/)”
@@ -40,7 +40,7 @@ This is interesting to me given how business team members my startup hired in va
 
 Interestingly, Hastings also shared that to develop this level of judgment in the team, they had to create a “sense of ownership”, which meant [“sharing information across the ranks is essential… everybody gets all the information. What we’re trying to do is build a sense of responsibility in people and empower them to do things.](https://qz.com/work/1254183/netflix-ceo-reed-hastings-expounds-on-the-netflix-culture-deck-at-ted-2018/)” As a startup [developing a data tool that cultivates operational alignment inside organisations](https://www.holistics.io/blog/the-holistics-way-of-life/), there are strong parallels between a [structure for scaling knowledge and teams](https://blog.fishtownanalytics.com/scaling-knowledge-160f9f5a9b6c), with a decentralised principle towards access of information.
 
-<img src="https://cdn-images-1.medium.com/max/2000/1*z8AiGYIFemg565aDeztH1w.png" alt="Alignment and good judgement, over process." width="80%">
+<img src="https://cdn-images-1.medium.com/max/2000/1*z8AiGYIFemg565aDeztH1w.png" alt="Alignment and good judgement, over process." width="90%">
 <br>*Alignment and good judgement, over process. (Credit: Henrik Kniberg)*
 
 ## Setting High Standards
@@ -49,7 +49,7 @@ Working in a startup, the dominant narrative is often one of defying the odds an
 
 Sometimes managers might confuse this with the [T-shape model for professional development](https://railsware.com/blog/2018/05/25/t-shaped-skills-in-product-development/), that outlines the skill paths that an employee can expect to grow in, such as the marketing, sales experience, content, design, analytics, product sense and programming basics that a full-stack business executive can expect to develop as a range of skills utilised for the job. This model is helpful in providing some sense of professional development and a skill tree for employees. However it does not address them wanting to then take that set of skills somewhere else.
 
-<img src="https://cdn-images-1.medium.com/max/2000/1*YYebxcKsgR-U68N6nkijPA.png" alt="Opportunities to develop broader and deeper skill-sets may not necessarily inspire loyalty." width="30%">
+<img src="https://cdn-images-1.medium.com/max/2000/1*YYebxcKsgR-U68N6nkijPA.png" alt="Opportunities to develop broader and deeper skill-sets may not necessarily inspire loyalty." width="50%">
 <br>*Opportunities to develop broader and deeper skill-sets may not necessarily inspire loyalty. (Credit: Kenneth S. Rubin)*
 
 To risk repetition, there’s a saying here that goes “t[rain people well enough so they can leave, treat them well enough so they don’t want to.](https://www.virgin.com/richard-branson/look-after-your-staff)” Work is only one facet of our lives. **As a team matures, and enters different phases in life, can your company provide for those changing needs**? This is core to what will allow for continuity of talent, and establish the foundations of a lasting organisation.
