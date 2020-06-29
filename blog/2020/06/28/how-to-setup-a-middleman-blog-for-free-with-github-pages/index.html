@@ -50,13 +50,13 @@
 
 <p>This article assumes some familiarity with working with the terminal, Ruby on Rails, HTML, CSS and JavaScript.</p>
 
-<h2>Step 1: Decide how you want your blog to look</h2>
+<h2 id="step-1-decide-how-you-want-your-blog-to-look">Step 1: Decide how you want your blog to look</h2>
 
 <p>First up, I gathered some ideas for how I wanted the blog to look, here were some of my visual references.</p>
 
-<p><img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/blog-ideas.png" alt="I collected some reference images from blog designs I like." /></p>
+<p><img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/blog-ideas.png" alt="I collected some reference images from blog designs I like." width="80%"></p>
 
-<h2>Step 2: Setup Middleman</h2>
+<h2 id="step-2-setup-middleman">Step 2: Setup Middleman</h2>
 
 <p>I was able to follow most of the setup steps listed <a href="https://adrianching.com/how-to-build-a-website-using-middleman-and-github-pages/" target="_blank">here by Adrian Ching</a>, which helped me get my bearings pretty quickly.</p>
 
@@ -74,21 +74,21 @@ middleman init my_blog_project <span style="color: #b58900">--template</span><sp
 <span style="color: #657b83">## Run your blog on your local machine</span>
 bundle <span style="color: #586e75">exec </span>middleman server
 </code></pre></div>
-<p>Rename <code>my_blog_project</code> to your choice of project name for your blog. You should now be able to access your Middleman blog site by visiting <code>http://localhost:4567</code>. This lets you test out running your Middleman blog on your local machine, and it&rsquo;s also where you&rsquo;ll be able to check that your work and changes to your HTML, JavaScript and CSS are appearing correctly. Personally, I use <a href="https://atom.io/" target="_blank">Atom as my code editor</a>, and it&rsquo;s all I&rsquo;ve needed so far! Shut down down your localhost server with <code>CTRL+c</code>.</p>
+<p>Rename <code class="prettyprint">my_blog_project</code> to your choice of project name for your blog. You should now be able to access your Middleman blog site by visiting <code class="prettyprint">http://localhost:4567</code>. This lets you test out running your Middleman blog on your local machine, and it&rsquo;s also where you&rsquo;ll be able to check that your work and changes to your HTML, JavaScript and CSS are appearing correctly. Personally, I use <a href="https://atom.io/" target="_blank">Atom as my code editor</a>, and it&rsquo;s all I&rsquo;ve needed so far! Shut down down your localhost server with <code class="prettyprint">CTRL+c</code>.</p>
 
-<p><img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/middleman-localhost.png" alt="Hello World from localhost!" width="50%"></p>
+<p><img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/middleman-localhost.png" alt="Hello World from localhost!" width="80%"></p>
 
 <p>Somehow I ran into the error below when I first tried to run my <a href="http://localhost" target="_blank">localhost</a> server.</p>
 
-<p><img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/gem-error.png" alt="Running into errors with localhost" width="50%"></p>
+<p><img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/gem-error.png" alt="Running into errors with localhost" width="100%"></p>
 
-<p>The fix for me was to add this line to my gem file: <code>gem &#39;middleman-autoprefixer&#39;</code>. Personally I&rsquo;m not entirely sure why this worked for me, but I&rsquo;m sharing this to help any one who might get stuck here.</p>
+<p>The fix for me was to add this line to my gem file: <code class="prettyprint">gem &#39;middleman-autoprefixer&#39;</code>. Personally I&rsquo;m not entirely sure why this worked for me, but I&rsquo;m sharing this to help any one who might get stuck here.</p>
 
-<p><img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/gem-autoprefixer.png" alt="Adding this single gem line fixed the error" width="50%"></p>
+<p><img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/gem-autoprefixer.png" alt="Adding this single gem line fixed the error" width="100%"></p>
 
 <p><a href="https://middlemanapp.com/basics/install/" target="_blank">Middleman&rsquo;s documentation</a> was really helpful for me to make sense of things as I went along, I recommend browsing through the sections, to better understand their concepts such as partials.</p>
 
-<h2>Step 3: Build your blog</h2>
+<h2 id="step-3-build-your-blog">Step 3: Build your blog</h2>
 
 <p>This is the fun and frustrating part of the process. I patched together a lot of different pieces by watching YouTube videos of how people styled elements on their sites, how to troubleshoot CSS and padding issues, building a header banner etc. I&rsquo;ll share some of the links I used here, and you can basically just <a href="https://github.com/evtan/evtan.github.io" target="_blank">clone my github repository</a> if you&rsquo;d like a base to start with and a fast way to get up and running (would appreciate a credit on your site if you do use it for a live blog!).</p>
 
@@ -99,24 +99,24 @@ bundle <span style="color: #586e75">exec </span>middleman server
 
 <p>I had written some articles on Medium, and was wondering if there was a simple way to move it across to my Middleman Blog. This <a href="https://medium.com/@macropus/export-your-medium-posts-to-markdown-b5ccc8cb0050" target="_blank">package here was a great discovery</a>, I highly recommend it!</p>
 
-<p>When it comes to updating gems, just add in or change the version in the gemfile, then run <code>bundle install</code> Two useful gems that you&rsquo;ll need are:</p>
+<p>When it comes to updating gems, just add in or change the version in the gemfile, then run <code class="prettyprint">bundle install</code> Two useful gems that you&rsquo;ll need are:</p>
 <div class="highlight"><pre class="highlight shell"><code>gem <span style="color: #859900">'middleman-livereload'</span>
 gem <span style="color: #859900">'middleman-deploy'</span>, <span style="color: #859900">'~&gt; 2.0.0.pre.alpha'</span>
 </code></pre></div>
-<p>Activate <code>livereload</code> by adding this code block to your <code>config.rb</code> file. I&rsquo;ll explain how to setup the <code>middleman-deploy</code> gem in the next section.</p>
+<p>Activate <code class="prettyprint">livereload</code> by adding this code block to your <code class="prettyprint">config.rb</code> file. I&rsquo;ll explain how to setup the <code class="prettyprint">middleman-deploy</code> gem in the next section.</p>
 <div class="highlight"><pre class="highlight ruby"><code><span style="color: #586e75">configure</span> <span style="color: #859900">:development</span> <span style="color: #6c71c4">do</span>
   <span style="color: #586e75">activate</span> <span style="color: #859900">:livereload</span>
 <span style="color: #6c71c4">end</span>
 </code></pre></div>
-<h2>Step 4: Deploy your blog to go live</h2>
+<h2 id="step-4-deploy-your-blog-to-go-live">Step 4: Deploy your blog to go live</h2>
 
-<p>Follow the <a href="https://medium.com/@ryanswapp/build-a-blog-with-middleman-and-host-on-github-pages-aab82a7fc56e" target="_blank">steps listed in this article here</a> to setup your Git and prepare your blog to be deployed, the important code block to add to <code>config.rb</code> is the following:</p>
+<p>Follow the <a href="https://medium.com/@ryanswapp/build-a-blog-with-middleman-and-host-on-github-pages-aab82a7fc56e" target="_blank">steps listed in this article here</a> to setup your Git and prepare your blog to be deployed, the important code block to add to <code class="prettyprint">config.rb</code> is the following:</p>
 <div class="highlight"><pre class="highlight ruby"><code><span style="color: #586e75">activate</span> <span style="color: #859900">:deploy</span> <span style="color: #6c71c4">do</span> <span style="color: #93a1a1">|</span><span style="color: #586e75">deploy</span><span style="color: #93a1a1">|</span>
   <span style="color: #586e75">deploy</span><span style="color: #93a1a1">.</span><span style="color: #586e75">deploy_method</span> <span style="color: #93a1a1">=</span> <span style="color: #859900">:git</span>
   <span style="color: #586e75">deploy</span><span style="color: #93a1a1">.</span><span style="color: #586e75">branch</span> <span style="color: #93a1a1">=</span> <span style="color: #859900">'master'</span>
 <span style="color: #6c71c4">end</span>
 </code></pre></div>
-<p>This will utilise the <code>middleman-deploy</code> gem that you added previously.
+<p>This will utilise the <code class="prettyprint">middleman-deploy</code> gem that you added previously.
 Running build will setup the build folder, and allow you to navigate to the blog articles you just created when on Middleman server.</p>
 <div class="highlight"><pre class="highlight shell"><code>bundle <span style="color: #586e75">exec </span>middleman build
 <span style="color: #657b83">## OR</span>
@@ -135,7 +135,7 @@ git push git@github.com:evtan/evtan.github.io
 </code></pre></div>
 <p>That&rsquo;s it! Refresh your page, and you should soon see your changes live on the web. Congratulations! You&rsquo;ve built and launched a Middleman blog on GitHub Pages, from scratch!</p>
 
-<p><img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/ghpage-live.png" alt="Your GitHub page is now live!" width="90%"></p>
+<p><img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/ghpage-live.png" alt="Your GitHub page is now live!" width="100%"></p>
 
 <p>Bonus points if you decide to purchase your own web domain, and to serve your GitHub page from there instead. If so, <a href="https://hackernoon.com/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b" target="_blank">this Hacker Noon guide</a> will be your friend.</p>
 
