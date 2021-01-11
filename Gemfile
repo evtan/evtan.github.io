@@ -10,7 +10,7 @@ gem "activesupport", ">= 5.2.4.3"
 gem "rack", ">= 2.2.3"
 
 gem "middleman-syntax"
-gem 'redcarpet', '~> 3.3', '>= 3.3.3'
+gem 'redcarpet', '~> 3.5'
 
 gem 'middleman-livereload'
 gem 'middleman-deploy', '~> 2.0.0.pre.alpha'
