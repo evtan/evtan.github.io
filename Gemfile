@@ -6,16 +6,21 @@ gem 'middleman', '~> 4.3.7'
 gem 'middleman-blog'
 gem 'middleman-autoprefixer'
 
+# Dependabot alerts
+gem "addressable", ">= 2.8.0"
+gem "rexml", ">= 3.2.5"
+gem "kramdown", ">= 2.3.1"
+gem "redcarpet", ">= 3.5.1"
+
+# Other gem files
 gem "activesupport", ">= 5.2.4.3"
 gem "rack", ">= 2.2.3"
 
 gem "middleman-syntax"
-gem 'redcarpet', '~> 3.3', '>= 3.3.3'
 
 gem 'middleman-livereload'
 gem 'middleman-deploy', '~> 2.0.0.pre.alpha'
 
-gem "kramdown", ">= 2.3.0"
 # For feed.xml.builder
 gem 'builder', '~> 3.0'
 
