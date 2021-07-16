@@ -183,7 +183,7 @@ body{
 #social-li {
   float: left;
   color: white;
-  width: 25%;
+  width: 20%;
   height: auto;
   margin: auto;
 }
@@ -191,7 +191,7 @@ body{
 #social-twitter {
   float: left;
   color: white;
-  width: 25%;
+  width: 20%;
   height: auto;
   margin: auto;
 }
@@ -199,7 +199,7 @@ body{
 #social-gh {
   float: left;
   color: white;
-  width: 25%;
+  width: 20%;
   height: auto;
   margin: auto;
 }
@@ -207,7 +207,15 @@ body{
 #social-medium {
   float: left;
   color: white;
-  width: 25%;
+  width: 20%;
+  height: auto;
+  margin: auto;
+}
+
+#social-centroly {
+  float: left;
+  color: white;
+  width: 20%;
   height: auto;
   margin: auto;
 }
