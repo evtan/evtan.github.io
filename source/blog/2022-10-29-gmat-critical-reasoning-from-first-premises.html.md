@@ -1,6 +1,6 @@
 ---
 title: How I Overcame GMAT Critical Reasoning Questions - Reasoning from first premises
-date: 30 Oct 2022
+date: 29 Oct 2022
 tags:
 subtitle: Identify the premise(s), and validate the conclusion. This helped me reach scores in the 90th percentile for verbal questions, so I hope it can help you too.
 ---
