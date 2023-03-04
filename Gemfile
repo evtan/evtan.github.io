@@ -1,10 +1,12 @@
 source 'https://rubygems.org'
 
-ruby '2.4.2'
+ruby '2.7.7'
 # Middleman Gems
-gem 'middleman', '~> 4.3.7'
+gem 'middleman'
 gem 'middleman-blog'
 gem 'middleman-autoprefixer'
+
+# Troubleshooting attempts
 
 # Dependabot alerts
 gem "addressable", ">= 2.8.0"
