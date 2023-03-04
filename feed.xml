@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Blog Name</title>
+  <subtitle>Blog subtitle</subtitle>
+  <id>http://blog.url.com/blog</id>
+  <link href="http://blog.url.com/blog"/>
+  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <updated>2022-10-29T08:00:00+08:00</updated>
+  <author>
+    <name>Blog Author</name>
+  </author>
+  <entry>
+    <title>How I Overcame GMAT Critical Reasoning Questions - Reasoning from first premises</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2022/10/29/gmat-critical-reasoning-from-first-premises/"/>
+    <id>http://blog.url.com/blog/2022/10/29/gmat-critical-reasoning-from-first-premises/</id>
+    <published>2022-10-29T08:00:00+08:00</published>
+    <updated>2023-03-04T22:02:55+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;hr&gt;
+
+&lt;p&gt;This was a simple technique I figured out while preparing for the GMAT, to help me break down logical problems in the critical reasoning section. I have found it to be really helpful ever since, such as when trying to reason through problems and statements being made in various situations. This helped me reach scores in the 90th percentile for verbal questions, so I hope it can help you too.&lt;/p&gt;
+
+&lt;p&gt;When trying to reason through a scenario, it is vital to first Identify the underlying premises of the statement. To take a classic example of logical reasoning:
+&lt;li&gt; &lt;strong&gt;Premise 1&lt;/strong&gt;: Socrates is a man.&lt;/li&gt;
+&lt;li&gt; &lt;strong&gt;Premise 2&lt;/strong&gt;: All men are mortal.&lt;/li&gt;
+&lt;li&gt; &lt;strong&gt;Conclusion&lt;/strong&gt;: Socrates is mortal.&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;Identify the premise(s), and validate the conclusion. That&amp;rsquo;s the gist! I&amp;rsquo;m surprised by how helpful this has been, especially when I&amp;rsquo;m presented with an argument that feels wrong but am finding it hard to pin down exactly why. Once I&amp;rsquo;m able to identify the underlying premises of the argument being made, I find it much easier to accept or dismiss the position with greater clarity.&lt;/p&gt;
+
+&lt;p&gt;Some tips on how to apply this in practice:
+&lt;br&gt;1. &lt;em&gt;Writing this out makes it far easier to figure out the logical answer that follows from the question or proposition.&lt;/em&gt;
+&lt;br&gt;2. &lt;em&gt;If you can&amp;rsquo;t identify the premise(s) easily, start with the conclusion, to better reason your way to the premise(s).&lt;/em&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s try applying this to a 700-level critical reasoning GMAT sample question here, from the &lt;a href="https://gmatclub.com/forum/we-have-a-moral-obligation-not-to-destroy-books-even-if-they-belong-321426.html" target="_blank"&gt;GMAT club.&lt;/a&gt; Try reasoning it out yourself first using the process I&amp;rsquo;ve outlined above, before reading the &amp;ldquo;Application&amp;rdquo; section below!&lt;/p&gt;
+
+&lt;h2 id="question"&gt;Question&lt;/h2&gt;
+
+&lt;p&gt;We have a moral obligation not to destroy books, even if they belong to us. The reason is quite simple: If preserved, books will almost certainly contribute to the intellectual and emotional enrichment of future generations.  &lt;/p&gt;
+
+&lt;p&gt;Which one of the following most accurately expresses the principle underlying the argument?&lt;br&gt;
+&lt;br&gt;A. It is morally incumbent upon us to devote effort to performing actions that have at least some chance of improving other people’s lives.&lt;br&gt;
+&lt;br&gt;B. We are morally obligated to preserve anything that past generations had preserved for our intellectual and emotional enrichment.&lt;br&gt;
+&lt;br&gt;C. The moral commitments we have to future generations supersede the moral commitments we have to the present generation.&lt;br&gt;
+&lt;br&gt;D. We are morally obligated not to destroy anything that will most likely enrich, either intellectually or emotionally, our posterity.&lt;/br&gt;
+&lt;br&gt; E. Being morally obligated not to destroy something requires that we be reasonably assured that that thing will lead to the betterment of someone we know.&lt;/br&gt;&lt;/p&gt;
+
+&lt;h2 id="application"&gt;Application&lt;/h2&gt;
+
+&lt;p&gt;Applying the process, let&amp;rsquo;s identify the premises of the argument here. Without looking at the answers, we can see that:
+&lt;li&gt; &lt;strong&gt;Premise&lt;/strong&gt;: Books will almost certainly contribute to the benefit of future generations.&lt;/li&gt;
+&lt;li&gt; &lt;strong&gt;Conclusion&lt;/strong&gt;: We have a moral obligation not to destroy books.&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;On this basis, the statement that best concurs with the above premise and conclusion, without adding, removing or modifying any propositions, is statement D.&lt;/p&gt;
+
+&lt;p&gt;When evaluating the merits of an argument and whether it can stand on the basis of its claims, it is important to reason with just the information being presented in the argument, and not to add on inferences from our own experiences or &amp;ldquo;common sense&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;That is probably the trickiest part of applying this technique, to be able to catch ourselves when we are accidentally adding on our own assumptions, and realising that it&amp;rsquo;s not actually what the statement is claiming at all.&lt;/p&gt;
+
+&lt;p&gt;Happy reasoning!&lt;/p&gt;
+
+&lt;hr&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Hello world, from Centroly</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2021/07/25/hello-world-from-centroly/"/>
+    <id>http://blog.url.com/blog/2021/07/25/hello-world-from-centroly/</id>
+    <published>2021-07-25T08:00:00+08:00</published>
+    <updated>2023-03-04T22:02:55+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;hr&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;a rel="canonical" href="https://centroly.com/blog/hello-world-from-centroly"&gt;Originally posted on Centroly&lt;/a&gt;.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Welcome to our journey, building Centroly in public. I&amp;rsquo;m Evan, one of the 3 founders of the &lt;a class="link" style="font-weight:bold" target="_blank" href="https://centroly.com/"&gt;Centroly&lt;/a&gt; platform. We have big plans for what we believe Centroly can become, I wanted to share some ideas with you about what we&amp;rsquo;re working towards here.&lt;/p&gt;
+
+&lt;h2 id="were-growing-further-apart-in-societies"&gt;We&amp;rsquo;re growing further apart in societies&lt;/h2&gt;
+
+&lt;p&gt;The echo chamber problem of our online worlds is real. Despite having access to a wealth of information with the internet, our views and ideas are becoming more divergent. Instead of broadening our perspectives and world views, people are digging deeper into their bubbles, blocking out input that challenges existing ideas and notions. It&amp;rsquo;s difficult to say whether technology aggravated the problem, or just brought to light existing differences that had always been there.&lt;/p&gt;
+
+&lt;p&gt;This graphic from Pew Research captures this problem quite compellingly, showing how political beliefs in the US are drifting further apart. This certainly is not an issue restricted to just America.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://cms.centroly.com/content/images/2021/07/image.png" alt="Ideological divergences are growing and straining the social fabric." width="80%"&gt;
+&lt;br&gt;&lt;em&gt;Ideological divergences are growing and straining the social fabric (Credit: &lt;a href="https://www.pewresearch.org/politics/2014/06/12/section-1-growing-ideological-consistency/" target="_blank"&gt;Pew Research (2014)&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id="more-digital-more-problems"&gt;More digital, more problems&lt;/h2&gt;
+
+&lt;p&gt;As digital trends accelerate globally, this increases both the velocity and volume at which information moves about. The challenge of misinformation and divergence becomes even more dire, affecting how we share and exchange ideas.&lt;/p&gt;
+
+&lt;p&gt;We all know that person in a chat group that spreads bad information and links, all the while believing it to be confirming their views. We are already starting to see how a critical mass of people spreading a message of intolerance and hate can result in social upheavals that affect our real physical lives. The digital world is shaping our physical lived experiences, and not always for the best.&lt;/p&gt;
+
+&lt;h2 id="collaboration-of-ideas-at-scale"&gt;Collaboration of ideas at scale&lt;/h2&gt;
+
+&lt;p&gt;Yet this vector of influence can also be the solution for our networked digital lives. There are stories of how people on the internet came together to solve cases that were decades old without any progress, or reuniting long lost family members that had given up hope on ever finding each other. Communities of developers and volunteers band together to launch new products and tools that improve our daily lives, or to organise information to overcome gaps in coverage by the media and institutions to protect local residents.&lt;/p&gt;
+
+&lt;p&gt;There are so many positive externalities that have come about from our ability to self-organise with digital tools, underpinning all this is our willingness to share and learn from one another.&lt;/p&gt;
+
+&lt;h2 id="a-global-marketplace-of-ideas-curated-by-empowered-users"&gt;A global marketplace of ideas, curated by empowered users&lt;/h2&gt;
+
+&lt;p&gt;This is the seed that inspired Centroly. We&amp;rsquo;re a bunch of curious individuals, eager to learn from each other. This willingness to share the best knowledge and ideas we&amp;rsquo;ve learnt, in order to advance the state of our private and even public conversations, is the essence of what I believe to be the key mindset that will allow us to have better conversations as a society and within our own communities. It&amp;rsquo;s a mission I find deeply worthwhile, as our world grows ever closer and smaller into a single digital village. If the internet can bring out both the best and the worst of us, I would like to be part of the solution that nurtures our better natures, to engage in the most exciting live dialogue there is today.&lt;/p&gt;
+
+&lt;h2 id="join-our-movement-to-bring-out-the-best"&gt;Join our movement to bring out the best&lt;/h2&gt;
+
+&lt;p&gt;As it stands, we&amp;rsquo;re at the very beginning of this journey, and we&amp;rsquo;re building &lt;a class="link" style="font-weight:bold" target="_blank" href="https://centroly.com/"&gt;Centroly&lt;/a&gt; in public in real-time to respond to the needs of our community to realise this vision. You&amp;rsquo;ll be an important part of helping us to shape what Centroly can be, to bring out the best of each other. I hope to see you on this quest!&lt;/p&gt;
+
+&lt;hr&gt;
+</content>
+  </entry>
+  <entry>
+    <title>How To Setup A Middleman Blog For Free With GitHub Pages</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2020/06/28/how-to-setup-a-middleman-blog-for-free-with-github-pages/"/>
+    <id>http://blog.url.com/blog/2020/06/28/how-to-setup-a-middleman-blog-for-free-with-github-pages/</id>
+    <published>2020-06-28T08:00:00+08:00</published>
+    <updated>2023-03-04T22:02:55+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;hr&gt;
+
+&lt;p&gt;I had been toying with the idea of setting up a personal website or blog for some time, and thanks to my work in a tech SaaS startup, I had been exposed to tools such as Middleman (a static site generator) which we host on Github Pages (for free!). I wondered how doable it would be to code and setup a website myself from scratch.&lt;/p&gt;
+
+&lt;p&gt;After a quick search online and finding several useful guides outlining the required steps, I decided to give it a shot. It took me about a weekend to get the first version up and running, which was really fulfilling and a personal milestone in my amateur coding journey.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m documenting the major steps I took here, as well as how I managed to troubleshoot some errors I ran into, so that it can hopefully be a useful updated guide to others that might want to try this fun project out as well!&lt;/p&gt;
+
+&lt;p&gt;This article assumes some familiarity with working with the terminal, Ruby on Rails, HTML, CSS and JavaScript.&lt;/p&gt;
+
+&lt;h2 id="step-1-decide-how-you-want-your-blog-to-look"&gt;Step 1: Decide how you want your blog to look&lt;/h2&gt;
+
+&lt;p&gt;First up, I gathered some ideas for how I wanted the blog to look, here were some of my visual references.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/blog-ideas.png" alt="I collected some reference images from blog designs I like." width="80%"&gt;&lt;/p&gt;
+
+&lt;h2 id="step-2-setup-middleman"&gt;Step 2: Setup Middleman&lt;/h2&gt;
+
+&lt;p&gt;I was able to follow most of the setup steps listed &lt;a href="https://adrianching.com/how-to-build-a-website-using-middleman-and-github-pages/" target="_blank"&gt;here by Adrian Ching&lt;/a&gt;, which helped me get my bearings pretty quickly.&lt;/p&gt;
+
+&lt;p&gt;You&amp;rsquo;ll need to have Ruby on Rails installed on your terminal (I use Bash on Ubuntu), if you haven&amp;rsquo;t you can follow &lt;a href="https://gorails.com/setup/windows/10" target="_blank"&gt;these steps here for Windows 10&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here are the important code steps to get started:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;gem &lt;span style="color: #586e75"&gt;install &lt;/span&gt;middleman-blog
+
+&lt;span style="color: #657b83"&gt;## Followed by&lt;/span&gt;
+middleman init my_blog_project &lt;span style="color: #b58900"&gt;--template&lt;/span&gt;&lt;span style="color: #93a1a1"&gt;=&lt;/span&gt;blog
+
+&lt;span style="color: #657b83"&gt;## Change directory to your blog project&lt;/span&gt;
+&lt;span style="color: #586e75"&gt;cd &lt;/span&gt;my_blog_project
+
+&lt;span style="color: #657b83"&gt;## Run your blog on your local machine&lt;/span&gt;
+bundle &lt;span style="color: #586e75"&gt;exec &lt;/span&gt;middleman server
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Rename &lt;code class="prettyprint"&gt;my_blog_project&lt;/code&gt; to your choice of project name for your blog. You should now be able to access your Middleman blog site by visiting &lt;code class="prettyprint"&gt;http://localhost:4567&lt;/code&gt;. This lets you test out running your Middleman blog on your local machine, and it&amp;rsquo;s also where you&amp;rsquo;ll be able to check that your work and changes to your HTML, JavaScript and CSS are appearing correctly. Personally, I use &lt;a href="https://atom.io/" target="_blank"&gt;Atom as my code editor&lt;/a&gt;, and it&amp;rsquo;s all I&amp;rsquo;ve needed so far! Shut down down your localhost server with &lt;code class="prettyprint"&gt;CTRL+c&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/middleman-localhost.png" alt="Hello World from localhost!" width="80%"&gt;&lt;/p&gt;
+
+&lt;p&gt;Somehow I ran into the error below when I first tried to run my &lt;a href="http://localhost" target="_blank"&gt;localhost&lt;/a&gt; server.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/gem-error.png" alt="Running into errors with localhost" width="100%"&gt;&lt;/p&gt;
+
+&lt;p&gt;The fix for me was to add this line to my gem file: &lt;code class="prettyprint"&gt;gem &amp;#39;middleman-autoprefixer&amp;#39;&lt;/code&gt;. Personally I&amp;rsquo;m not entirely sure why this worked for me, but I&amp;rsquo;m sharing this to help any one who might get stuck here.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/gem-autoprefixer.png" alt="Adding this single gem line fixed the error" width="100%"&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://middlemanapp.com/basics/install/" target="_blank"&gt;Middleman&amp;rsquo;s documentation&lt;/a&gt; was really helpful for me to make sense of things as I went along, I recommend browsing through the sections, to better understand their concepts such as partials.&lt;/p&gt;
+
+&lt;h2 id="step-3-build-your-blog"&gt;Step 3: Build your blog&lt;/h2&gt;
+
+&lt;p&gt;This is the fun and frustrating part of the process. I patched together a lot of different pieces by watching YouTube videos of how people styled elements on their sites, how to troubleshoot CSS and padding issues, building a header banner etc. I&amp;rsquo;ll share some of the links I used here, and you can basically just &lt;a href="https://github.com/evtan/evtan.github.io" target="_blank"&gt;clone my github repository&lt;/a&gt; if you&amp;rsquo;d like a base to start with and a fast way to get up and running (would appreciate a credit on your site if you do use it for a live blog!).&lt;/p&gt;
+
+&lt;p&gt;The Middleman command for setting up articles is:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;middleman article &lt;span style="color: #859900"&gt;"Title of Blogpost"&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;When it came to working with features specific to Middleman Blog, this &lt;a href="https://vgpena.github.io/blogging-with-middleman/" target="_blank"&gt;guide by Violet&lt;/a&gt; proved really instructive.&lt;/p&gt;
+
+&lt;p&gt;I had written some articles on Medium, and was wondering if there was a simple way to move it across to my Middleman Blog. This &lt;a href="https://medium.com/@macropus/export-your-medium-posts-to-markdown-b5ccc8cb0050" target="_blank"&gt;package here was a great discovery&lt;/a&gt;, I highly recommend it!&lt;/p&gt;
+
+&lt;p&gt;When it comes to updating gems, just add in or change the version in the gemfile, then run &lt;code class="prettyprint"&gt;bundle install&lt;/code&gt; Two useful gems that you&amp;rsquo;ll need are:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;gem &lt;span style="color: #859900"&gt;'middleman-livereload'&lt;/span&gt;
+gem &lt;span style="color: #859900"&gt;'middleman-deploy'&lt;/span&gt;, &lt;span style="color: #859900"&gt;'~&amp;gt; 2.0.0.pre.alpha'&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Activate &lt;code class="prettyprint"&gt;livereload&lt;/code&gt; by adding this code block to your &lt;code class="prettyprint"&gt;config.rb&lt;/code&gt; file. I&amp;rsquo;ll explain how to setup the &lt;code class="prettyprint"&gt;middleman-deploy&lt;/code&gt; gem in the next section.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight ruby"&gt;&lt;code&gt;&lt;span style="color: #586e75"&gt;configure&lt;/span&gt; &lt;span style="color: #859900"&gt;:development&lt;/span&gt; &lt;span style="color: #6c71c4"&gt;do&lt;/span&gt;
+  &lt;span style="color: #586e75"&gt;activate&lt;/span&gt; &lt;span style="color: #859900"&gt;:livereload&lt;/span&gt;
+&lt;span style="color: #6c71c4"&gt;end&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id="step-4-deploy-your-blog-to-go-live"&gt;Step 4: Deploy your blog to go live&lt;/h2&gt;
+
+&lt;p&gt;Follow the &lt;a href="https://medium.com/@ryanswapp/build-a-blog-with-middleman-and-host-on-github-pages-aab82a7fc56e" target="_blank"&gt;steps listed in this article here&lt;/a&gt; to setup your Git and prepare your blog to be deployed, the important code block to add to &lt;code class="prettyprint"&gt;config.rb&lt;/code&gt; is the following:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight ruby"&gt;&lt;code&gt;&lt;span style="color: #586e75"&gt;activate&lt;/span&gt; &lt;span style="color: #859900"&gt;:deploy&lt;/span&gt; &lt;span style="color: #6c71c4"&gt;do&lt;/span&gt; &lt;span style="color: #93a1a1"&gt;|&lt;/span&gt;&lt;span style="color: #586e75"&gt;deploy&lt;/span&gt;&lt;span style="color: #93a1a1"&gt;|&lt;/span&gt;
+  &lt;span style="color: #586e75"&gt;deploy&lt;/span&gt;&lt;span style="color: #93a1a1"&gt;.&lt;/span&gt;&lt;span style="color: #586e75"&gt;deploy_method&lt;/span&gt; &lt;span style="color: #93a1a1"&gt;=&lt;/span&gt; &lt;span style="color: #859900"&gt;:git&lt;/span&gt;
+  &lt;span style="color: #586e75"&gt;deploy&lt;/span&gt;&lt;span style="color: #93a1a1"&gt;.&lt;/span&gt;&lt;span style="color: #586e75"&gt;branch&lt;/span&gt; &lt;span style="color: #93a1a1"&gt;=&lt;/span&gt; &lt;span style="color: #859900"&gt;'master'&lt;/span&gt;
+&lt;span style="color: #6c71c4"&gt;end&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This will utilise the &lt;code class="prettyprint"&gt;middleman-deploy&lt;/code&gt; gem that you added previously.
+Running build will setup the build folder, and allow you to navigate to the blog articles you just created when on Middleman server.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;bundle &lt;span style="color: #586e75"&gt;exec &lt;/span&gt;middleman build
+&lt;span style="color: #657b83"&gt;## OR&lt;/span&gt;
+middleman build
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;You are now ready to push your blog from your local to your source branch on GitHub. Make sure you have setup your SSH keys correctly, and that you have correctly assigned the remote branch to your local repository.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span style="color: #657b83"&gt;## Check branches available&lt;/span&gt;
+git branch
+
+&lt;span style="color: #657b83"&gt;## Push to source branch, replace the account and repository here with your own GitHub details&lt;/span&gt;
+git push git@github.com:evtan/evtan.github.io
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;You can now push your local changes to your master branch on GitHub, and deploy the changes to go live.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;git push &lt;span style="color: #b58900"&gt;--set-upstream&lt;/span&gt; origin &lt;span style="color: #586e75"&gt;source
+&lt;/span&gt;middleman deploy
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;That&amp;rsquo;s it! Refresh your page, and you should soon see your changes live on the web. Congratulations! You&amp;rsquo;ve built and launched a Middleman blog on GitHub Pages, from scratch!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/evtan/evtan.github.io/source/data/ghpage-live.png" alt="Your GitHub page is now live!" width="100%"&gt;&lt;/p&gt;
+
+&lt;p&gt;Bonus points if you decide to purchase your own web domain, and to serve your GitHub page from there instead. If so, &lt;a href="https://hackernoon.com/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b" target="_blank"&gt;this Hacker Noon guide&lt;/a&gt; will be your friend.&lt;/p&gt;
+
+&lt;hr&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Build A Company People Want To Stay With, For Their Entire Careers</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2019/05/24/build-a-company-people-want-to-stay-with-for-their-entire-careers/"/>
+    <id>http://blog.url.com/blog/2019/05/24/build-a-company-people-want-to-stay-with-for-their-entire-careers/</id>
+    <published>2019-05-24T08:00:00+08:00</published>
+    <updated>2023-03-04T22:02:55+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;hr&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;a rel="canonical" href="https://medium.com/@evtan/build-a-company-people-want-to-stay-with-for-their-entire-careers-24e0af7b5193"&gt;Originally posted on Medium&lt;/a&gt;.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;My previous article explored what it takes to build alignment across a company over the long term. Taking this to the next logical step, I want to explore what it takes to build a team that lasts.&lt;/p&gt;
+
+&lt;p&gt;Working in a SaaS startup, we spend a lot of time thinking about making good decisions. Good decisions around product, around pricing, our positioning and many other issues. Given a long enough time frame, I have little doubt that we will be able to iron out and figure how to solve these issues. Importantly, I find myself asking if we are spending enough time thinking about ensuring the continuity of the team?&lt;/p&gt;
+
+&lt;p&gt;I previously shared my view that &lt;a href="https://medium.com/@evtan/for-saas-startup-success-plan-for-10-years-and-more-98ecf3c29bdb" target="_blank"&gt;any person on the team, and anyone that is hired, should be seen as a long term investment for the sustainability of the startup or company&lt;/a&gt;. On this basis, &lt;strong&gt;if building a startup is a long term endeavour that will likely take more than a decade, then building a lasting high-performing team becomes absolutely critical to develop momentum&lt;/strong&gt; over time, so as to accumulate the skills, organisational knowledge and internalised team dynamics that last.&lt;/p&gt;
+
+&lt;p&gt;What does it take to build an institution for the long term? What’s it going to take for us to feel like we can be 100% comfortable with this idea: &lt;strong&gt;If we looked around at each other, and considered that these are the people we’re going to be working with day in and day out for the next 10 to 20 years, would we be doing things differently?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id="nurturing-high-performing-long-lasting-teams"&gt;Nurturing High-Performing, Long-Lasting Teams&lt;/h2&gt;
+
+&lt;p&gt;I was looking around for some examples of building successful teams for the long haul, and found a good resource in a book called &lt;a href="https://knowledge.wharton.upenn.edu/article/secrets-successful-groups/" target="_blank"&gt;“The Culture Code”, that studied successful organisations&lt;/a&gt; like the U.S. Navy’s SEAL Team Six, IDEO, Pixar and the San Antonio Spurs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://cdn-images-1.medium.com/max/2000/1*6-5jFgnLVqj1Ydd5xzIlvw.jpeg" alt="San Antonio Spurs team with coach Gregg Popovich." width="90%"&gt;
+&lt;br&gt;&lt;em&gt;San Antonio Spurs team with coach Gregg Popovich. (Photo: Kevin C. Cox/Getty Images)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In this article, the book author shared that “&lt;a href="https://knowledge.wharton.upenn.edu/article/secrets-successful-groups/" target="_blank"&gt;When Harvard did a study tracking average culture versus strong culture, strong culture was 782% of net revenue over 10 years.&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;When employees first join a company, typically most are more than willing to go above and beyond to do a great job, and that dynamism can be quite infectious throughout the team. How then can this enthusiasm, grit and determination, be made sustainable? That energy is exactly what will carry a company forward to new heights through the years.&lt;/p&gt;
+
+&lt;p&gt;While we can’t control the time it will take to achieve the growth we would like to see for the companies we are in, what we can control is how we work together. A Netflix employee described how among the team, there seemed to be a self-organising principle in play, centred around freedom and responsibility, which he witnessed firsthand when the company handled an outage crisis with total calm: “&lt;a href="https://medium.com/swlh/the-tao-of-netflix-culture-94ba70c73242" target="_blank"&gt;It felt as if the invisible forces guiding each employee’s behavior were somehow more powerfully aligned, more coherent, than I’d sensed within previous organizations.&lt;/a&gt;”&lt;/p&gt;
+
+&lt;h2 id="developing-good-judgment"&gt;Developing Good Judgment&lt;/h2&gt;
+
+&lt;p&gt;Netflix is known for its stringent focus on results and high performance from its team, yet interestingly, a survey of over 10,000 people found the average retention of employees in Netflix is longer than companies like &lt;a href="https://www.businessinsider.sg/average-employee-tenure-retention-at-top-tech-companies-2018-4/?r=US&amp;amp;IR=T" target="_blank"&gt;Facebook, Dropbox, Airbnb, Square and Uber&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;John Ciancutti, an engineer who left Netflix after 13 years, shared that this stems from how “&lt;a href="https://www.huffpost.com/entry/netflix-culture-deck-success_n_6763716" target="_blank"&gt;Netflix assumes that you have amazing judgment,” and that “judgment is the solution for almost every ambiguous problem. Not process.&lt;/a&gt;” Netflix CEO Reed Hastings shared that he and his co-founder had intended to build an organisation &lt;a href="https://qz.com/work/1254183/netflix-ceo-reed-hastings-expounds-on-the-netflix-culture-deck-at-ted-2018/" target="_blank"&gt;“with no process but no chaos,” achieving this by focusing on “independent decision-making by employees” as its top core value, and “good judgment, not administration” as the operating principle&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is interesting to me given how business team members my startup hired in various countries have had to be exceedingly independent and resourceful, which makes the ability to make good judgment calls even more crucial. Implementing and &lt;a href="https://blog.leanstack.com/the-7-habits-for-running-highly-effective-lean-startup-experiments-f1daaa93f85b" target="_blank"&gt;applying a strong experimental framework&lt;/a&gt; would also be a step in this direction, to develop the faculty for better judgment.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, Hastings also shared that to develop this level of judgment in the team, they had to create a “sense of ownership”, which meant &lt;a href="https://qz.com/work/1254183/netflix-ceo-reed-hastings-expounds-on-the-netflix-culture-deck-at-ted-2018/" target="_blank"&gt;“sharing information across the ranks is essential… everybody gets all the information. What we’re trying to do is build a sense of responsibility in people and empower them to do things.&lt;/a&gt;” As a startup &lt;a href="https://www.holistics.io/blog/the-holistics-way-of-life/" target="_blank"&gt;developing a data tool that cultivates operational alignment inside organisations&lt;/a&gt;, there are strong parallels between a &lt;a href="https://blog.fishtownanalytics.com/scaling-knowledge-160f9f5a9b6c" target="_blank"&gt;structure for scaling knowledge and teams&lt;/a&gt;, with a decentralised principle towards access of information.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://cdn-images-1.medium.com/max/2000/1*z8AiGYIFemg565aDeztH1w.png" alt="Alignment and good judgement, over process." width="90%"&gt;
+&lt;br&gt;&lt;em&gt;Alignment and good judgement, over process. (Credit: Henrik Kniberg)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id="setting-high-standards"&gt;Setting High Standards&lt;/h2&gt;
+
+&lt;p&gt;Working in a startup, the dominant narrative is often one of defying the odds and punching above our weight, especially when it comes to building a great product. To me, the &lt;a href="https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/" target="_blank"&gt;true mark of maturity for a company&lt;/a&gt; is when it has successfully built a place that can provide a real future for the people that have chosen to stand by the company. Achieving this takes planning, careful resource allocation and hard choices, but is absolutely essential &lt;a href="https://www.inc.com/david-cancel/how-to-build-a-company-your-team-will-never-want-to-leave.html" target="_blank"&gt;if we believe that a company is defined by the people we bring in&lt;/a&gt;. What will it take for us to be able to give team members the full confidence to say that having chosen to work here, I wouldn’t want to be anywhere else?&lt;/p&gt;
+
+&lt;p&gt;Sometimes managers might confuse this with the &lt;a href="https://railsware.com/blog/2018/05/25/t-shaped-skills-in-product-development/" target="_blank"&gt;T-shape model for professional development&lt;/a&gt;, that outlines the skill paths that an employee can expect to grow in, such as the marketing, sales experience, content, design, analytics, product sense and programming basics that a full-stack business executive can expect to develop as a range of skills utilised for the job. This model is helpful in providing some sense of professional development and a skill tree for employees. However it does not address them wanting to then take that set of skills somewhere else.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://cdn-images-1.medium.com/max/2000/1*YYebxcKsgR-U68N6nkijPA.png" alt="Opportunities to develop broader and deeper skill-sets may not necessarily inspire loyalty." width="50%"&gt;
+&lt;br&gt;&lt;em&gt;Opportunities to develop broader and deeper skill-sets may not necessarily inspire loyalty. (Credit: Kenneth S. Rubin)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;To risk repetition, there’s a saying here that goes “t&lt;a href="https://www.virgin.com/richard-branson/look-after-your-staff" target="_blank"&gt;rain people well enough so they can leave, treat them well enough so they don’t want to.&lt;/a&gt;” Work is only one facet of our lives. &lt;strong&gt;As a team matures, and enters different phases in life, can your company provide for those changing needs&lt;/strong&gt;? This is core to what will allow for continuity of talent, and establish the foundations of a lasting organisation.&lt;/p&gt;
+
+&lt;p&gt;Naturally, there will be hits and misses in an ongoing experiment around building a lasting team. However we must insist and hold each other to high-standards, so as to build something great.&lt;/p&gt;
+
+&lt;p&gt;There was an interesting finding around developing high performing individuals. Psychologists from Stanford, Yale and Columbia discovered that teachers that shared one particular form of feedback boosted student effort and performance so significantly, that they called it “magical feedback”. This simple line goes as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href="http://time.com/5125421/gregg-popovich-san-antonio-spurs-success/" target="_blank"&gt;&lt;strong&gt;&amp;ldquo;I’m giving you these comments because I have very high expectations and I know that you can reach them.&amp;rdquo;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;These 19 words do not contain any information on how to improve. Yet they are powerful because they deliver a cultural signal:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;You are part of this group.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;This group is special; we have high standards here.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;I believe you can reach those standards.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There’s a key insight here that a person’s potential is realised not through their own efforts alone, but through the influence of someone who believes in their ability to reach and actualise their latent abilities. Ultimately, “&lt;a href="https://www.huffpost.com/entry/netflix-culture-deck-success_n_6763716" target="_blank"&gt;if you trust and empower people and give them a chance to rise to the higher expectations, the vast majority of people are able to do it.&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;So let’s all do better together.&lt;/p&gt;
+
+&lt;hr&gt;
+</content>
+  </entry>
+  <entry>
+    <title>For SaaS Startup Success, Plan For 10 Years And More</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2019/04/17/for-saas-startup-success-plan-for-10-years-and-more/"/>
+    <id>http://blog.url.com/blog/2019/04/17/for-saas-startup-success-plan-for-10-years-and-more/</id>
+    <published>2019-04-17T08:00:00+08:00</published>
+    <updated>2023-03-04T22:02:55+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;hr&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;a rel="canonical" href="https://medium.com/@evtan/for-saas-startup-success-plan-for-10-years-and-more-98ecf3c29bdb"&gt;Originally posted on Medium&lt;/a&gt;.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;I work at a SaaS data analytics startup called Holistics Software, taking on established brand names in the business intelligence space like Tableau and Looker.&lt;/p&gt;
+
+&lt;p&gt;We were founded in 2015, and have been profitable with 100+ customers in over 20 countries. Being on this side of the fence of a startup and joining the team as employee number 10, I find myself thinking lots about what it means to build a successful company.&lt;/p&gt;
+
+&lt;h2 id="building-a-startup-without-venture-funding"&gt;Building A Startup Without Venture Funding&lt;/h2&gt;
+
+&lt;p&gt;While on a trip in Hokkaido with my girlfriend, I found myself listening absorbedly to &lt;a href="https://sparktoro.com/book" target="_blank"&gt;Rand Fishkin’s Lost and Founder&lt;/a&gt;. &lt;a href="undefined" target="_blank"&gt;Rand Fishkin&lt;/a&gt; was the CEO of Moz, a SEO company, and he was sharing his experiences with brutal honesty. One thing he shared was &lt;a href="https://www.geekwire.com/2018/rand-fishkin-avoided-vc-made-investment-documents-public-new-startup-sparktoro/" target="_blank"&gt;his perspective on taking venture funding&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Moz was making &lt;a href="https://moz.com/blog/moz-year-in-review-2017" target="_blank"&gt;$47 million revenue a year by 2017&lt;/a&gt;, however as Rand showed in his book, this growth would still not have been sufficient for their venture capital investors. Investors are looking for the 2 or 3 companies out of their portfolio of 20 or so investments that can provide those out-sized returns, in the ball park figure of 3x or more on their capital, and will focus most of their attention on that small handful of companies. This is also known as a power law distribution for the returns on venture capital investments.&lt;/p&gt;
+
+&lt;p&gt;Venture capitalists are hence looking for hockey stick revenue growth. As Peter Thiel put it, “&lt;a href="https://www.forbes.com/sites/ralphbenko/2014/10/13/peter-thiel-we-dont-live-in-a-normal-world-we-live-under-a-power-law/#5dadd8b67a7d" target="_blank"&gt;The biggest secret in venture capital is that the best investment in a successful fund equals or outperforms the entire rest of the fund combined… only invest in companies that have the potential to return the value of the entire fund,&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;If you want venture funding, you have to be sure that your interests and those of your investors are aligned.&lt;/p&gt;
+
+&lt;p&gt;When considering what this could mean for my startup, this really drove home for me the fact that the long term viability of the company will likely depend on us playing the long game, to build a well-balanced, profitable growth business, without an expectation of a big exit anytime in the short term. Companies &lt;a href="https://www.nytimes.com/2016/10/06/technology/mailchimp-and-the-un-silicon-valley-way-to-make-it-as-a-start-up.html" target="_blank"&gt;like Mailchimp have done it&lt;/a&gt;, and this is a perfectly viable way to build a startup (though not typically the one we hear about most in the media).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="undefined" target="_blank"&gt;Jason M. Lemkin&lt;/a&gt; did an excellent piece &lt;a href="https://www.linkedin.com/pulse/saas-maybe-plan-30-years-founder-jason-m-lemkin/" target="_blank"&gt;showing that many famous SaaS startups that we think of as up-and-coming, have actually already been around and plugging away for more than 10 years&lt;/a&gt;. Which begs &lt;a href="https://medium.com/swlh/what-defines-a-successful-startup-4abe5d507273" target="_blank"&gt;the question, how do we define success as a company&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://cdn-images-1.medium.com/max/2000/1*sUbTp4H5AU9KRsCI0so3cQ.png" alt="As of 2018, “SaaS companies that are crossing into their third decade in operation — and not slowing down”" width="80%"&gt;
+&lt;br&gt;&lt;em&gt;As of 2018, “SaaS companies that are crossing into their third decade in operation — and not slowing down”. (Credit: &lt;a href="https://www.linkedin.com/pulse/saas-maybe-plan-30-years-founder-jason-m-lemkin/" target="_blank"&gt;Jason Lemkin&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id="growing-a-team-you-believe-in"&gt;Growing A Team You Believe In&lt;/h2&gt;
+
+&lt;p&gt;To me this means that a startup’s success is directly tied to the quality and longevity of the team they build. There’s a book called “The Culture Code” by Daniel Coyle where he studied great teams like Pixar, the San Antonio Spurs and the U.S. Navy’s SEAL Team Six, and in an article he shared that when Harvard did a study “&lt;a href="https://knowledge.wharton.upenn.edu/article/secrets-successful-groups/" target="_blank"&gt;tracking average culture versus strong culture, strong culture was 782% of net revenue over 10 years.&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;Seen in this light, this means &lt;strong&gt;any person on the team, and anyone we hire, should be seen as a long term investment for the sustainability of the company&lt;/strong&gt;. Building a successful company for the long haul requires understanding and facilitating the personal career breakthroughs of each person on the team, to “&lt;a href="https://www.virgin.com/richard-branson/how-human-your-company" target="_blank"&gt;be focusing on how we can help people reach their highest potential and purpose — which will naturally have a positive impact on the bottom line.&lt;/a&gt;”&lt;/p&gt;
+
+&lt;p&gt;So basically, “&lt;a href="https://www.virgin.com/richard-branson/look-after-your-staff" target="_blank"&gt;train people well enough so they can leave, treat them well enough so they don’t want to&lt;/a&gt;.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://cdn-images-1.medium.com/max/2000/1*7d_7dP4BnPA6tSWCOC5jdw.png" alt="Some of the young faces building Holistics, with brilliant engineers, product teams and growth hackers hailing from Vietnam, Singapore and Indonesia. The next big tech stories will be coming from this part of the world." width="80%"&gt;
+&lt;br&gt;&lt;em&gt;Some of the young faces building Holistics, with brilliant engineers, product teams and growth hackers hailing from Vietnam, Singapore and Indonesia. The next big tech stories will be coming from this part of the world.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id="a-startup-is-the-shared-dream-of-the-whole-team-not-just-the-founders"&gt;A Startup Is The Shared Dream Of The Whole Team, Not Just The Founders&lt;/h2&gt;
+
+&lt;p&gt;A startup may start out being the brainchild and foolhardy endeavour of the founding team, but for it to go to the next level, it needs to become the collective dream of the team that comes on board.&lt;/p&gt;
+
+&lt;p&gt;This requires deep reflection into how being part of such a company can truly fulfill each member, &lt;a href="https://www.forbes.com/sites/chrismyers/2018/02/23/how-to-find-your-ikigai-and-transform-your-outlook-on-life-and-business/#119123752ed4" target="_blank"&gt;to find personal alignment with the company and the opportunities we can have here&lt;/a&gt;. And this will need the company to have the processes and environment that allows each of us to really grow over time and achieve the respective personal career breakthroughs we seek for ourselves.&lt;/p&gt;
+
+&lt;p&gt;TL;DR: If you’re building a startup, plan as you would a marathon over decades, and grow your team culture and skills accordingly on this time frame.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Bonus: Read about how &lt;a href="http://time.com/5125421/gregg-popovich-san-antonio-spurs-success/" target="_blank"&gt;Gregg Popovich went about building the most successful sporting franchise in American history to date&lt;/a&gt;. In a nutshell, it comes down to building the following team narrative: “You are part of this group. This group is special. I believe you can meet our high standards&lt;/em&gt;.”&lt;/p&gt;
+
+&lt;hr&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Present(ing) Futures 1 - The future Singapore economy</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2016/04/04/presenting-futures-1-the-future-singapore-economy/"/>
+    <id>http://blog.url.com/blog/2016/04/04/presenting-futures-1-the-future-singapore-economy/</id>
+    <published>2016-04-04T08:00:00+08:00</published>
+    <updated>2023-03-04T22:02:55+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;hr&gt;
+
+&lt;p&gt;&lt;i&gt;Honourable mention for the Lee Kuan Yew School of Public Policy essay competition &amp;ldquo;&lt;a rel="canonical" href="https://lkyspp.nus.edu.sg/executive-education/future-ready-singapore-project/present-ing-futures-1-the-future-singapore-economy"&gt;Present(ing) Futures #1:The future Singapore economy&lt;/a&gt;&amp;rdquo;.&lt;/i&gt;&lt;/p&gt;
+
+&lt;h2 id="summary"&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;In  line    with    the objective for   Singapore   to  grow    a   ‘second   wing’,    a position  paper   in  2016 called for  the    development of  Singapore   into    an  externally  focused,    geographically  unconstrained   economy,    as  well    as  a    base    for     innovation and  thought     leadership. This essay discusses    how the     recent  “Smart   Nation”    initiatives     unveiled    by  the     Singapore   government  are     angled  towards     creating    a  collaborative,   innovative  national    framework,  and     proposes that developing comprehensive Southeast   Asian consumer-level    data    in  Singapore, coupled with the use of application  programming interfaces   (APIs), could stimulate self-organised  crowdsourced    innovations     and     regional   entrepreneurial  activity while  simultaneously  communicating   larger  regional    concerns    to  the    user base.&lt;/p&gt;
+
+&lt;h2 id="main-argument"&gt;Main Argument&lt;/h2&gt;
+
+&lt;p&gt;Singapore’s rise has arguably been heavily reliant on the accumulation of the factors of production (Young, 1992), and this model is unlikely to yield higher levels of growth for the country. Academic literature on the limitations of the Singapore growth model is relatively well documented, and I would refer you to the report on “Singapore’s Productivity Challenge” (Auyong, 2016) for a more detailed perspective and overview of the challenges facing the Singaporean growth model. On the topic of Singapore’s economic development, Prime Minister Lee Hsien Loong stated that for Singapore, “the obvious gains have been made” (McGurn, 2016). Having reached this stage of growth, the next step is to have a coherent approach towards developing the capabilities of the people and tapping into the creative potential of the populace.&lt;/p&gt;
+
+&lt;p&gt;On the notion of human capability development, the approach for longer term lasting change would be largely concerned with education, the case for which was touched upon by Faizal bin Yahya (2014) on the place of education in Singapore’s industrial policy for innovation, and elaborated at length elsewhere. However, the pressures we face are more immediate, and the argument I put forth here is for a more current application that addresses the challenge we face.&lt;/p&gt;
+
+&lt;p&gt;For this essay, productivity will be defined as the efficiency by which inputs such as land, labour and capital, are “converted into outputs such as goods and services” (Auyong, 2016, p. 39); which I interpret as maximising the efficiency of a given task or process, while innovation here defined is loosely based upon The World Bank Innovation Policy report definition of “technologies or practices that are new to a given society” (2010, p.4); finding different solutions to existing problems, which suggests value creation. Singapore excelled in importing ideas, technology and knowledge from other parts of the world, and fulfilling demand from the global market; an example of how we “imported what the rest of the world knew, and exported what it wanted” (Commission on Growth and Development, 2008). Our ability to synthesise and take best-practices and amalgamate these as our own offerings produced our local champions capable of competing internationally, such as PSA International, Changi Airport and Sembcorp, to name a few examples. The main functions of these companies address typical needs at a high standard, and this, I argue, was more a case of enhancing productivity; improving on existing processes and delivering a higher quality or standard of service. Pursuing productivity gains will continue to be a mainstay of Singapore’s priorities. At this stage where the country is transitioning to the next stage of its development by undergoing reforms and moving towards a “Smart Nation”[1],  I argue that the shift that the government proposes to undertake represents a fundamental change in perspective that is geared towards innovation, which I would liken to the difference between ‘pipes’ and ‘platforms’ as business models.[2]  To extend the logic, innovation requires a connected platform for knowledge, where both producers and consumers of information can derive and contribute value in a positive feedback loop.&lt;/p&gt;
+
+&lt;p&gt;The close relationship between sources of knowledge and innovation has been explored (Bach et al., 2015), and in this regard, my proposal for developing the innovative capacity of the Singapore economy would be to develop a collaborative repository of consumer data which addresses the direct needs of regional socio-economic challenges. This suggestion shares a common basis with the themes touched upon within the Singapore Business Federation (SBF) 2016 position paper, which called for both an externally focused, geographically unconstrained economy, as well as the thought leadership of Singapore (Singapore Business Federation, 2016a). Here, I argue that both these objectives can be pursued concurrently, through addressing the data deficit that exists within the larger geographic context that Singapore lies within, Southeast Asia.[3] Singapore is arguably well-positioned to tap into this need, a notion which finds support from the company Google, which developed its first data centre for Southeast Asia in Singapore in 2011, and committed again in 2015 to investing an additional S$ 675m to expand its data centre and services here, as an act of “building on Southeast Asia’s extraordinary growth” (Channel NewsAsia, 2015). This would be in line with Singapore’s efforts to expand the economic space that it operates within (Goh, 2005), and our next challenge would be to leverage upon our geographic proximity and technological advantages to deepen our engagement with the region.&lt;/p&gt;
+
+&lt;p&gt;This builds upon elements proposed within the Infocomm Media 2025 plan, which discussed the development of Singapore as a digital harbour and a data marketplace.[4] Expanding on this, our role and brand as a data marketplace can be strengthened by establishing a reputation as a high quality network for ground level data on Southeast Asia, becoming a platform for knowledge producers and consumers to capture the opportunities present in the region; providing the so-called raw materials for innovation. This would be known as organising the ‘external knowledge’ search (Dikova, 2015). Developing a framework for the various actors to share crucial knowledge that can support business activities capable of exploiting such data sources at scale, has been made possible via information communication technologies (ICT).&lt;/p&gt;
+
+&lt;p&gt;The type of data relevant in this regard, consumer-level data, would take the cues from that employed in the United Kingsdom (UK) by retailers for developing insights into consumer behaviours, the use of which is pivotal for what is termed as consumer-driven innovation networks (Cox and Mowatt, 2004). Such data has yielded financial benefits to UK retailers, and created a strategic asset using knowledge about the requirements of customers (Cox and Mowatt, 2004). Such data would be the lifeblood for small medium enterprises (SMEs) and companies with regional ambitions. Having a clear understanding of the ground sentiments, preferences and behaviours allows for better business decisions to be made. This is an approach called ‘demand-space analysis’ by the Boston Consulting Group,[5] and I would argue that Singapore is particularly well-placed to be a broker of such information. Data on Southeast Asian consumers is still in its nascent form, with a large proportion of the region still yet to come online.[6]&lt;/p&gt;
+
+&lt;p&gt;The value of data lies in its ability to facilitate self-organisation among users, who are able to make connections that are not readily apparent even to the data providers themselves. This approach has been used by technology firms such as Amazon, eBay and Google to unleash innovation, using application programming interfaces (APIs) as a way of allowing developers access to their database to design services and applications, built by a community of developers out of their own volition (Tapscott and Williams, 2006). This encourages an open source approach to innovation, an example being how Google officially released the APIs to Google Maps, which developers then took to create new applications on a massive scale by combining it with other data sources, which found usage in ways from crime reporting to disaster relief (Tapscott and Williams, 2006, p. 184 - 193). This method of tapping into the creativity of large groups allows new forms of innovation to develop in unforeseen ways, benefitting from the network effect as more applications and developers interact with the API platform, creating value from the ground up.&lt;/p&gt;
+
+&lt;p&gt;Singapore’s forays into becoming more data savvy have yielded valuable projects, such as the data.gov.sg data portal, which makes available a wide array of datasets on Singaporean statistics, and encourages the use of APIs to develop applications and services using government data (Ministry of Communication and Information, 2015). The next step would be to take this data driven focus and turn it outwards to the region. The SBF position paper advocated the usage of digital technology to overcome geographical boundaries (Singapore Business Federation, 2016a, p. 8), I would suggest that tapping into the innovative and entrepreneurial potential of the country’s residents can be achieved through the development of a state-of-the-art API of Southeast Asian consumers, which would hold the potential for both social and commercial applications. Such a platform of knowledge will empower market participants to have a clearer view of the wider context that they are placed within, making their efforts more targeted and effective for regional consumers, and allowing them to venture out to take on risks they deem suitable.&lt;/p&gt;
+
+&lt;p&gt;For the benefits of innovation to be felt, it has to be of a form that is accessible to a wider array of users. In Singapore’s quest to support domestic enterprises, I would argue that a deeper knowledge of the surrounding region remains one of the key stumbling blocks that prevents more local companies from venturing out.[7] Small individual players would be hard pressed to eke out a share of foreign markets elsewhere, although the Singapore market’s lack of scale remains a constant push-factor for local companies. Engaging a wider segment of people to embrace the larger multilateral challenges that Singapore faces, through a regionally focused consumer-based API, will allow the medium of a data centred platform to be a way of unleashing commercial innovation as well as communicating larger regional concerns to the user base.&lt;/p&gt;
+
+&lt;p&gt;Shifting towards a collaborative approach through the sharing and development of actionable data can empower a community-based approach towards the ‘second wing’ movement.[8] This essay argues that a way of making an external wing more viable would be to become a recognised thought leader and network for innovation on regional consumer data. By so doing, this would further support the slew of technology focused initiatives the Singapore government has embarked upon since 2011, and develop a data driven society that understands the region’s needs, in order to be a leading innovation hub in the years to come.&lt;/p&gt;
+
+&lt;h3 id="notes"&gt;Notes&lt;/h3&gt;
+
+&lt;p&gt;[1] See Lee (2014) on the launch of the “Smart Nation” initiative, where the prime minister declared that the government “will build the infrastructure, facilitate innovation and create the framework for all of us to contribute”.&lt;br&gt;
+[2] To paraphrase, “pipes” represent a more traditional business, which places producers (of services, things, content etc.) on one end and consumers on the other, while “platforms” are a model where both producers and consumers are engaged and connected through the platform to deliver and consume services, of which companies such as Uber and AirBnB would be examples of. See Velayanikal (2015).&lt;br&gt;
+[3] See Kellerman (2015), for a brief discussion on the business-related data deficit in Southeast Asia.&lt;br&gt;
+[4] In brief, the “digital harbour” looks at developing data infrastructure, while the “data marketplace” looks at developing datasets to be exchanged, see Ministry of Communications and Information (2015, pp. 25–26).&lt;br&gt;
+[5] See Boston Consulting Group (2015, pp. 18–19), for a discussion on data based “demand centric” segmentation and its considerable benefits for companies.&lt;br&gt;
+[6] To give a sense of the potential, a Google executive shared that in the third quarter of 2013 “there were 60 million new internet users – mobile only” in Asia, nearly two times the population of Canada; illustrating the scope for growth in this regard. See Wong (2014).&lt;br&gt;
+[7] A survey of Singaporean SMEs in 2016 identified that “close to 60% of SMEs identify lack of familiarity with the overseas markets and difficulty in identifying suitable local partners as biggest challenges when expanding overseas”, see Singapore Business Federation (2016b).&lt;br&gt;
+[8] Discussed within the 2016 SBF position paper, this references a speech made by then senior minister Lee Kuan Yew at an award ceremony for businesses on 8 January 1993, on the lack of Singaporean entrepreneurs and the need for Singapore to build an external dimension of its economy.&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id="references"&gt;References&lt;/h2&gt;
+
+&lt;p&gt;Auyong, Hawyee. 2016. ‘Singapore’s Productivity Challenge: A Historical Perspective’. Present(ing) Futures, 1.&lt;br&gt;
+Bach, Mirjana, Andjelko Lojpur, Sanja Peković and Tatjana Stanovčić. 2015. &amp;lsquo;The Influence Of Different Information Sources On Innovation Performance: Evidence From France, The Netherlands And Croatia&amp;rsquo;. South East European Journal Of Economics &amp;amp; Business (1840118X), 10, 2, pp. 89-101.&lt;br&gt;
+Boston Consulting Group. 2015. ‘The Most Innovative Companies 2015: Four Factors that Differentiate Leaders’. November 2015. https://media-publications.bcg.com/MIC/BCG-Most-Innovative-Companies-2015-Nov-2015.pdf (accessed March 10, 2016).&lt;br&gt;
+Channel NewsAsia. 2015. “Google to build 2nd data centre in Singapore, ups investment to S$657m”. June 2. http://www.channelnewsasia.com/news/singapore/google-to-build-2nd-data/1888102.html (accessed March 28, 2016).&lt;br&gt;
+Commission on Growth and Development. 2008. ‘The growth report: Strategies for sustained growth and inclusive development’. World Bank: Washington, D.C.&lt;br&gt;
+Cox, Howard and Simon Mowatt. 2004. &amp;lsquo;Consumer-driven innovation networks and e-business management systems&amp;rsquo;. Qualitative Market Research: An International Journal, 7, 1, pp. 9-19.&lt;br&gt;
+Dikova, Desislava. 2015. &amp;lsquo;Improving Innovation: Are Internal And External Sources Of Knowledge Complements Or Substitutes?&amp;rsquo;. Schmalenbach Business Review (SBR), 67, pp. 349-367.&lt;br&gt;
+Goh, Andrew L.S. 2005. Towards An Innovation-Driven Economy Through Industrial Policy-Making: An Evolutionary Analysis of Singapore. The Innovation Journal: The Public Sector Innovation Journal, 10(3), 17.&lt;br&gt;
+Kellerman, Travis. 2015. “The Great Data Divide of Southeast Asia”. Mobile Ecosystem Forum, October 2. http://www.mobileecosystemforum.com/2015/10/02/the-great-data-divide-of-southeast-asia/ (accessed March 28, 2016).&lt;br&gt;
+Lee, Hsien L. 2014. ‘Transcript of Prime Minister Lee Hsien Loong’s speech at Smart Nation launch on 24 November’. Prime Minister’s Office Singapore. http://www.pmo.gov.sg/mediacentre/transcript-prime-minister-lee-hsien-loongs-speech-smart-nation-launch-24-november (accessed March 28, 2016).&lt;br&gt;
+McGurn, William. 2016. “Lee Hsien Loong’s American Exceptionalism”. Wall Street Journal, March 31.&lt;br&gt;
+Ministry of Communications and Information. 2015. Infocomm Media 2025 Plan. August 11. http://www.mci.gov.sg/infocomm-media-2025 (accessed March 7, 2016).&lt;br&gt;
+Singapore Business Federation. 2016a. ‘Position Paper for a Vibrant Singapore’. January 6. http://www.sbf.org.sg/sbf-position-paper-for-a-vibrant-singapore (accessed March 11, 2016).&lt;br&gt;
+Singapore Business Federation. 2016b. “SMEs seek greater regional financing capabilities to facilitate expansion”. January 20. http://www.sbf.org.sg/smes-seek-greater-regional-financing-capabilities-to-facilitate-expansion (accessed March 11, 2016).&lt;br&gt;
+Tapscott, Don and Anthony D. Williams. 2006. ‘Wikinomics: How mass collaboration changes everything’. Portfolio: New York.&lt;br&gt;
+The World Bank. 2010. ‘Innovation Policy: A Guide for Developing Countries’. World Bank: Washington D.C.&lt;br&gt;
+Velayanikal, Malavika. 2015. “This new book on startups tells you how to build the next Uber for X”. Tech In Asia, September 21. https://www.techinasia.com/book-tells-you-how-to-build-the-next-uber-for-x (accessed April 2, 2016).&lt;br&gt;
+Wong, Wei H. 2014. “Google upgrading S’pore data centre for greater energy efficiency”. Today, October 22. http://www.todayonline.com/tech/google-upgrading-spore-data-centre-greater-energy-efficiency (accessed March 21, 2016).&lt;br&gt;
+Yahya, Faizal B. 2014. ‘Creativity and Innovation in Singapore Economy’. IPS Update, November 2014: Singapore.&lt;br&gt;
+Young, Alwyn. 1992. &amp;lsquo;A Tale of Two Cities: Factor Accumulation and Technical Change in Hong Kong and Singapore&amp;rsquo;. NBER Macroeconomics Annual, 1992, 7, pp. 13-54: Cambridge.&lt;br&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+</content>
+  </entry>
+</feed>
