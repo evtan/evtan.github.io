@@ -5,10 +5,47 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2022-10-29T08:00:00+08:00</updated>
+  <updated>2023-06-02T08:00:00+08:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>Contemplating the infinite under finite conditions</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2023/06/02/contemplating-the-infinite-under-finite-conditions/"/>
+    <id>http://blog.url.com/blog/2023/06/02/contemplating-the-infinite-under-finite-conditions/</id>
+    <published>2023-06-02T08:00:00+08:00</published>
+    <updated>2023-06-02T22:16:59+08:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;hr&gt;
+
+&lt;p&gt;We celebrate Vesak Day today in Singapore, which commemorates the birth, enlightenment and death of Buddha. Somehow I found myself contemplating the concept of infinity, which reminded me of a question I&amp;rsquo;ve had before:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;How did humans develop the concept of the infinite, if we are only surrounded by finite phenomenon?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I decided to pose this question to ChatGPT (GPT-4), and a rather insightful response emerged, listing out several possibilities:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Mathematics and Numbers&lt;/strong&gt;: When early humans began counting objects, they probably realised that there&amp;rsquo;s no upper limit to the process - one can always add another unit to any quantity. This is an early and intuitive approach to the concept of infinity. The invention of the number zero also contributed to understanding infinity, by establishing a symmetry between &amp;ldquo;nothing&amp;rdquo; and &amp;ldquo;everything&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Astronomy&lt;/strong&gt;: Looking at the night sky, one can get an intuitive sense of the infinite. The seemingly unending stars and the unbounded nature of the universe have probably led many to think about infinity.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Philosophy and Religion&lt;/strong&gt;: Many cultures have used the concept of the infinite to describe the divine or supernatural, perceiving the divine as having no beginning or end. Greek philosophers like Zeno proposed paradoxes involving infinity, and this helped formalise the concept.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Geometry&lt;/strong&gt;: Euclid&amp;rsquo;s Elements, a foundational work in geometry, includes the idea that a line can be extended indefinitely. This is another natural place where the idea of infinity comes into play.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Calculus&lt;/strong&gt;: The formal mathematical concept of infinity was really developed and utilised in the field of calculus, pioneered by Newton and Leibniz. They used infinitesimals, quantities smaller than any finite quantity but not zero, to develop their theories of calculus.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Set Theory&lt;/strong&gt;: The concept of infinity was further refined in the 19th and 20th centuries with the development of set theory. Georg Cantor demonstrated that not all infinities are equal – for example, there are more real numbers between 0 and 1 than there are natural numbers.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Generally speaking, it seems the idea here is that humans have somehow intuited the concept of infinity, through a combination of pattern recognition and extrapolation. If we follow the line of reasoning, however, that any concept we are able to develop has to have some counterpart in our lived material reality, somehow I still find myself wondering how it is that our biological hardware and software was able to deduce something we have not actually directly observed or experienced; the notion of infinity. &lt;/p&gt;
+
+&lt;p&gt;I speculate that another possible vector here that could have led to us formulating the idea of inifity, may be how we humans grapple with our mortality, which may have prompted us to consider the possibility of an existence without end.&lt;/p&gt;
+
+&lt;p&gt;A particularly intriguing statement emerged from the above response, suggesting that &amp;ldquo;It&amp;rsquo;s a testament to the ability of the human mind to go beyond immediate sensory experience and grapple with the boundless and the eternal.&amp;rdquo; Tangentially, might artificial intelligence and large language models (LLM) draw connections from our currently available collective dataset, to infer new concepts that we have yet to formulate or become aware of ourselves? Could these developments push us to develop new concepts that were previously out of reach of our own limited mental faculties and awareness?&lt;/p&gt;
+
+&lt;p&gt;Meditating on these possibilities fills me with awe!&lt;/p&gt;
+
+&lt;hr&gt;
+</content>
+  </entry>
   <entry>
     <title>How I Overcame GMAT Critical Reasoning Questions - Reasoning from first premises</title>
     <link rel="alternate" href="http://blog.url.com/blog/2022/10/29/gmat-critical-reasoning-from-first-premises/"/>
