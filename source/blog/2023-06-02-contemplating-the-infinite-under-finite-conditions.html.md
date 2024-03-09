@@ -2,7 +2,7 @@
 title: Contemplating the infinite under finite conditions
 date:  2 Jun 2023
 tags:
-subtitle:
+subtitle: How did humans develop the concept of the infinite, if we are only surrounded by finite phenomenon?
 ---
 
 ***
