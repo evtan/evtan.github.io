@@ -6,6 +6,11 @@ subtitle: How did humans develop the concept of the infinite, if we are only sur
 ---
 
 ***
+*(Updated 16 Sep 2024)*
+
+***"The decisive question for man is: Is he related to something infinite or not? That is the telling question of his life. Only if we know that the thing which truly matters is the infinite can we avoid fixing our interest upon futilities, and upon all kinds of goals which are not of real importance."***
+- *Carl Jung, "Memories, Dreams, Reflections" (1962), p.325.* 
+
 We celebrate Vesak Day today in Singapore, which commemorates the birth, enlightenment and death of Buddha. Somehow I found myself contemplating the concept of infinity, which reminded me of a question I've had before:
 
 ***How did humans develop the concept of the infinite, if we are only surrounded by finite phenomenon?***

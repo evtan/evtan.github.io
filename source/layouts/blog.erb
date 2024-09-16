@@ -50,7 +50,7 @@
       <h3>Recent Articles</h3>
       <ul>
         <% blog.articles[0...10].each do |article| %>
-          <li><%= link_to article.title, article %> <span><%= article.date.strftime('%e %b %Y') %></span></li>
+          <li><i><%= link_to article.title, article %></i> <span><%= article.date.strftime('%e %b %Y') %></span></li>
         <% end %>
       </ul>
     </div>
