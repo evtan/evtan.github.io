@@ -10,14 +10,13 @@ gem 'middleman-autoprefixer'
 
 # Dependabot alerts
 gem "addressable", ">= 2.8.0"
-gem "rexml", ">= 3.2.5"
+gem "rexml", ">= 3.3.6"
 gem "kramdown", ">= 2.3.1"
 gem "redcarpet", ">= 3.5.1"
 
 # Other gem files
-gem "activesupport", ">= 5.2.4.3"
-gem "rack", ">= 2.2.3"
-
+gem "activesupport", ">= 7.0.4.3"
+gem "rack", ">= 2.2.8.1"
 gem "middleman-syntax"
 
 gem 'middleman-livereload'
