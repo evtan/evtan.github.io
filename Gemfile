@@ -16,7 +16,7 @@ gem "redcarpet", ">= 3.5.1"
 
 # Other gem files
 gem "activesupport", ">= 7.0.4.3"
-gem "rack", ">= 2.2.13"
+gem "rack", ">= 2.2.22"
 gem "middleman-syntax"
 
 gem 'middleman-livereload'
@@ -32,6 +32,7 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby, :x64_mingw]
 gem 'wdm', '~> 0.1', platforms: [:mswin, :mingw, :x64_mingw]
 
 ## Troubleshooting versions
+# gem "rack", ">= 2.2.13"
 # gem "rack", ">= 2.2.8.1"
 # gem 'rack', '~> 2.0.3'
 # gem 'parallel', '~> 1.12.0'

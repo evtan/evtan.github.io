@@ -107,7 +107,7 @@ GEM
     parslet (2.0.0)
     ptools (1.5.0)
     public_suffix (5.0.1)
-    rack (2.2.17)
+    rack (2.2.22)
     rack-livereload (0.3.17)
       rack
     rb-fsevent (0.11.2)
@@ -144,7 +144,7 @@ DEPENDENCIES
   middleman-deploy (~> 2.0.0.pre.alpha)
   middleman-livereload
   middleman-syntax
-  rack (>= 2.2.13)
+  rack (>= 2.2.22)
   redcarpet (>= 3.5.1)
   rexml (>= 3.3.6)
   tzinfo-data
