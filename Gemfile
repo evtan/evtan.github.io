@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.7.7'
+ruby '3.2.0'
 # Middleman Gems
 gem 'middleman'
 gem 'middleman-blog'
@@ -9,14 +9,16 @@ gem 'middleman-autoprefixer'
 # Troubleshooting attempts
 
 # Dependabot alerts
-gem "addressable", ">= 2.8.0"
-gem "rexml", ">= 3.3.6"
+gem "addressable", ">= 2.9.0"
+gem "rexml", ">= 3.3.9"
 gem "kramdown", ">= 2.3.1"
 gem "redcarpet", ">= 3.5.1"
+gem "webrick", ">= 1.8.2"
+gem 'net-ftp'
 
 # Other gem files
-gem "activesupport", ">= 7.0.4.3"
-gem "rack", ">= 2.2.22"
+gem "activesupport", ">= 7.2.3.1"
+gem "rack", ">= 2.2.23"
 gem "middleman-syntax"
 
 gem 'middleman-livereload'
@@ -32,6 +34,12 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby, :x64_mingw]
 gem 'wdm', '~> 0.1', platforms: [:mswin, :mingw, :x64_mingw]
 
 ## Troubleshooting versions
+# gem 'net-ftp' 2026-0408
+# gem "activesupport", ">= 7.0.4.3" 2026-0408
+# gem "rexml", ">= 3.3.6" 2026-0408
+# gem "rack", ">= 2.2.22" 2026-0408
+# gem "addressable", ">= 2.8.0" 2026-0408
+# gem "webrick", ">= 1.8.2" 2026-0408
 # gem "rack", ">= 2.2.13"
 # gem "rack", ">= 2.2.8.1"
 # gem 'rack', '~> 2.0.3'
