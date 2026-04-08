@@ -5,7 +5,7 @@
   <id>http://blog.url.com/blog</id>
   <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2024-11-11T08:00:00+08:00</updated>
+  <updated>2024-11-11T00:00:00+00:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
@@ -13,7 +13,7 @@
     <title>Individuation and the Will to Meaning</title>
     <link rel="alternate" href="http://blog.url.com/blog/2024/11/11/individuation-and-the-will-to-meaning/"/>
     <id>http://blog.url.com/blog/2024/11/11/individuation-and-the-will-to-meaning/</id>
-    <published>2024-11-11T08:00:00+08:00</published>
+    <published>2024-11-11T00:00:00+00:00</published>
     <updated>2024-11-13T15:20:19+08:00</updated>
     <author>
       <name>Article Author</name>
@@ -101,7 +101,7 @@
     <title>Contemplating the Infinite under Finite conditions</title>
     <link rel="alternate" href="http://blog.url.com/blog/2023/06/02/contemplating-the-infinite-under-finite-conditions/"/>
     <id>http://blog.url.com/blog/2023/06/02/contemplating-the-infinite-under-finite-conditions/</id>
-    <published>2023-06-02T08:00:00+08:00</published>
+    <published>2023-06-02T00:00:00+00:00</published>
     <updated>2024-11-11T18:33:04+08:00</updated>
     <author>
       <name>Article Author</name>
@@ -143,7 +143,7 @@
     <title>How I Overcame GMAT Critical Reasoning Questions - Reasoning from first premises</title>
     <link rel="alternate" href="http://blog.url.com/blog/2022/10/29/gmat-critical-reasoning-from-first-premises/"/>
     <id>http://blog.url.com/blog/2022/10/29/gmat-critical-reasoning-from-first-premises/</id>
-    <published>2022-10-29T08:00:00+08:00</published>
+    <published>2022-10-29T00:00:00+00:00</published>
     <updated>2024-03-09T11:00:55+08:00</updated>
     <author>
       <name>Article Author</name>
@@ -197,7 +197,7 @@
     <title>Hello world, from Centroly</title>
     <link rel="alternate" href="http://blog.url.com/blog/2021/07/25/hello-world-from-centroly/"/>
     <id>http://blog.url.com/blog/2021/07/25/hello-world-from-centroly/</id>
-    <published>2021-07-25T08:00:00+08:00</published>
+    <published>2021-07-25T00:00:00+00:00</published>
     <updated>2023-03-04T22:02:55+08:00</updated>
     <author>
       <name>Article Author</name>
@@ -244,7 +244,7 @@
     <title>How To Setup A Middleman Blog For Free With GitHub Pages</title>
     <link rel="alternate" href="http://blog.url.com/blog/2020/06/28/how-to-setup-a-middleman-blog-for-free-with-github-pages/"/>
     <id>http://blog.url.com/blog/2020/06/28/how-to-setup-a-middleman-blog-for-free-with-github-pages/</id>
-    <published>2020-06-28T08:00:00+08:00</published>
+    <published>2020-06-28T00:00:00+00:00</published>
     <updated>2023-03-04T22:02:55+08:00</updated>
     <author>
       <name>Article Author</name>
@@ -355,7 +355,7 @@ git push git@github.com:evtan/evtan.github.io
     <title>Build A Company People Want To Stay With, For Their Entire Careers</title>
     <link rel="alternate" href="http://blog.url.com/blog/2019/05/24/build-a-company-people-want-to-stay-with-for-their-entire-careers/"/>
     <id>http://blog.url.com/blog/2019/05/24/build-a-company-people-want-to-stay-with-for-their-entire-careers/</id>
-    <published>2019-05-24T08:00:00+08:00</published>
+    <published>2019-05-24T00:00:00+00:00</published>
     <updated>2023-03-04T22:02:55+08:00</updated>
     <author>
       <name>Article Author</name>
@@ -436,7 +436,7 @@ git push git@github.com:evtan/evtan.github.io
     <title>For SaaS Startup Success, Plan For 10 Years And More</title>
     <link rel="alternate" href="http://blog.url.com/blog/2019/04/17/for-saas-startup-success-plan-for-10-years-and-more/"/>
     <id>http://blog.url.com/blog/2019/04/17/for-saas-startup-success-plan-for-10-years-and-more/</id>
-    <published>2019-04-17T08:00:00+08:00</published>
+    <published>2019-04-17T00:00:00+00:00</published>
     <updated>2023-03-04T22:02:55+08:00</updated>
     <author>
       <name>Article Author</name>
@@ -494,7 +494,7 @@ git push git@github.com:evtan/evtan.github.io
     <title>Present(ing) Futures 1 - The future Singapore economy</title>
     <link rel="alternate" href="http://blog.url.com/blog/2016/04/04/presenting-futures-1-the-future-singapore-economy/"/>
     <id>http://blog.url.com/blog/2016/04/04/presenting-futures-1-the-future-singapore-economy/</id>
-    <published>2016-04-04T08:00:00+08:00</published>
+    <published>2016-04-04T00:00:00+00:00</published>
     <updated>2023-03-04T22:02:55+08:00</updated>
     <author>
       <name>Article Author</name>
